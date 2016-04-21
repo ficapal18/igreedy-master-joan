@@ -1,0 +1,223 @@
+var markerGT=
+{
+    "countGT": 31, 
+    "markerGT": [
+        {
+            "city": "Auckland", 
+            "id": "AKL", 
+            "latitude": "-37.0080986023", 
+            "longitude": "174.792007446", 
+            "population": "417910"
+        }, 
+        {
+            "city": "Amsterdam", 
+            "id": "AMS", 
+            "latitude": "52.3086013794", 
+            "longitude": "4.7638897896", 
+            "population": "741636"
+        }, 
+        {
+            "city": "Amsterdam", 
+            "id": "AMS-IX", 
+            "latitude": "52.3747158", 
+            "longitude": "4.8986167", 
+            "population": "741636"
+        }, 
+        {
+            "city": "Stockholm", 
+            "id": "ARN", 
+            "latitude": "59.6519012451", 
+            "longitude": "17.9186000824", 
+            "population": "1253309"
+        }, 
+        {
+            "city": "Paris", 
+            "id": "CDG", 
+            "latitude": "49.0127983093", 
+            "longitude": "2.5499999523", 
+            "population": "2138551"
+        }, 
+        {
+            "city": "Dallas-Fort Worth", 
+            "id": "DFW", 
+            "latitude": "32.8968009949", 
+            "longitude": "-97.0380020142", 
+            "population": "741206"
+        }, 
+        {
+            "city": "Newark", 
+            "id": "EWR", 
+            "latitude": "40.6925010681", 
+            "longitude": "-74.1687011719", 
+            "population": "277140"
+        }, 
+        {
+            "city": "Frankfurt-am-Main", 
+            "id": "FRA", 
+            "latitude": "50.0264015198", 
+            "longitude": "8.543129921", 
+            "population": "650000"
+        }, 
+        {
+            "city": "S\u00e3o Paulo", 
+            "id": "GRU", 
+            "latitude": "-23.4355564117", 
+            "longitude": "-46.4730567932", 
+            "population": "10021295"
+        }, 
+        {
+            "city": "Hong Kong", 
+            "id": "HKG", 
+            "latitude": "22.308889", 
+            "longitude": "113.914722", 
+            "population": "7012738"
+        }, 
+        {
+            "city": "Washington", 
+            "id": "IAD", 
+            "latitude": "38.94449997", 
+            "longitude": "-77.45580292", 
+            "population": "18761"
+        }, 
+        {
+            "city": "Seoul", 
+            "id": "ICN", 
+            "latitude": "37.4691009521", 
+            "longitude": "126.4509963989", 
+            "population": "10349312"
+        }, 
+        {
+            "city": "Johannesburg", 
+            "id": "JNB", 
+            "latitude": "-26.1392002106", 
+            "longitude": "28.2460002899", 
+            "population": "4434827"
+        }, 
+        {
+            "city": "Los Angeles", 
+            "id": "LAX", 
+            "latitude": "33.94250107", 
+            "longitude": "-118.4079971", 
+            "population": "3792621"
+        }, 
+        {
+            "city": "London", 
+            "id": "LHR", 
+            "latitude": "51.4706001282", 
+            "longitude": "-0.4619410038", 
+            "population": "7556900"
+        }, 
+        {
+            "city": "Lima", 
+            "id": "LIM", 
+            "latitude": "-12.021900177", 
+            "longitude": "-77.1143035889", 
+            "population": "7737002"
+        }, 
+        {
+            "city": "Madrid", 
+            "id": "MAD", 
+            "latitude": "40.4936", 
+            "longitude": "-3.56676", 
+            "population": "3255944"
+        }, 
+        {
+            "city": "Rionegro", 
+            "id": "MDE", 
+            "latitude": "6.16454", 
+            "longitude": "-75.4231", 
+            "population": "62291"
+        }, 
+        {
+            "city": "Miami", 
+            "id": "MIA", 
+            "latitude": "25.7931995392", 
+            "longitude": "-80.2906036377", 
+            "population": "399457"
+        }, 
+        {
+            "city": "Milan", 
+            "id": "MXP", 
+            "latitude": "45.6305999756", 
+            "longitude": "8.7281103134", 
+            "population": "1236837"
+        }, 
+        {
+            "city": "Tokyo", 
+            "id": "NRT", 
+            "latitude": "35.7647018433", 
+            "longitude": "140.3860015869", 
+            "population": "8336599"
+        }, 
+        {
+            "city": "Chicago", 
+            "id": "ORD", 
+            "latitude": "41.97859955", 
+            "longitude": "-87.90480042", 
+            "population": "2695598"
+        }, 
+        {
+            "city": "Prague", 
+            "id": "PRG", 
+            "latitude": "50.1007995605", 
+            "longitude": "14.2600002289", 
+            "population": "1165581"
+        }, 
+        {
+            "city": "Santiago", 
+            "id": "SCL", 
+            "latitude": "-33.3930015564", 
+            "longitude": "-70.7857971191", 
+            "population": "4837295"
+        }, 
+        {
+            "city": "Seattle", 
+            "id": "SEA", 
+            "latitude": "47.4490013123", 
+            "longitude": "-122.3089981079", 
+            "population": "608660"
+        }, 
+        {
+            "city": "Singapore", 
+            "id": "SIN", 
+            "latitude": "1.3501900434", 
+            "longitude": "103.9940032959", 
+            "population": "3547809"
+        }, 
+        {
+            "city": "San Jose", 
+            "id": "SJC", 
+            "latitude": "37.3625984192", 
+            "longitude": "-121.9290008545", 
+            "population": "945942"
+        }, 
+        {
+            "city": "Sydney", 
+            "id": "SYD", 
+            "latitude": "-33.9460983276", 
+            "longitude": "151.1770019531", 
+            "population": "4627345"
+        }, 
+        {
+            "city": "Vienna", 
+            "id": "VIE", 
+            "latitude": "48.1102981567", 
+            "longitude": "16.5697002411", 
+            "population": "1691468"
+        }, 
+        {
+            "city": "Warsaw", 
+            "id": "WAW", 
+            "latitude": "52.1656990051", 
+            "longitude": "20.9671001434", 
+            "population": "1702139"
+        }, 
+        {
+            "city": "Toronto", 
+            "id": "YYZ", 
+            "latitude": "43.6772003174", 
+            "longitude": "-79.6305999756", 
+            "population": "4612191"
+        }
+    ]
+}

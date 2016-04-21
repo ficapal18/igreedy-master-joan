@@ -1,0 +1,195 @@
+180 150W  120W  90W   60W   30W  000   30E   60E   90E   120E  150E 180
+|    |     |     |     |     |    |     |     |     |     |     |     |
++90N-+-----+-----+-----+-----+----+-----+-----+-----+-----+-----+-----+
+|          . _..::__:  ,-"-"._       |7       ,     _,.__             |
+|  _.___ _ _<_>`!(._`.`-.    /        _._     `_ ,_/  '  '-._.---.-.__|
+|.{     " " `-==,',._\{  \  / {)     / _ ">_,-' `                mt-2_|
++ \_.:--.       `._ )`^-. "'      , [_/( G        e      o     __,/-' +
+|'"'     \         "    _L       0o_,--'                )     /. (|   |
+|         | A  n     y,'          >_.\\._<> 6              _,' /  '   |
+|         `. c   s   /          [~/_'` `"(   l     o      <'}  )      |
++30N       \\  a .-.t)          /   `-'"..' `:._        c  _)  '      +
+|   `        \  (  `(          /         `:\  > \  ,-^.  /' '         |
+|             `._,   ""        |           \`'   \|   ?_)  {\         |
+|                `=.---.       `._._ i     ,'     "`  |' ,- '.        |
++000               |a    `-._       |     /          `:`<_|h--._      +
+|                  (      l >       .     | ,          `=.__.`-'\     |
+|                   `.     /        |     |{|              ,-.,\     .|
+|                    |   ,'          \ z / `'            ," a   \     |
++30S                 |  /             |_'                |  __ t/     +
+|                    |o|                                 '-'  `-'  i\.|
+|                    |/                                        "  n / |
+|                    \.          _                              _     |
++60S                            / \   _ __  _   _  ___ __ _ ___| |_   +
+|                     ,/       / _ \ | '_ \| | | |/ __/ _` / __| __|  |
+|    ,-----"-..?----_/ )      / ___ \| | | | |_| | (_| (_| \__ \ |_ _ |
+|.._(                  `----'/_/   \_\_| |_|\__, |\___\__,_|___/\__| -|
++90S-+-----+-----+-----+-----+-----+-----+--___/ /--+-----+-----+-----+
+     Based on 1998 Map by Matthew Thomas   |____/ Hacked on 2015 by 8^/  
+
+Version
+-------------
+1.1 improved the code
+    improved demo visualization
+    systemTest inserted
+    measurements from PlanetLab and RIPE
+    added TTL from PlanetLab measurement
+    added TTL from RIPE measurement (RIPE API provides 1 TTL per measurement, e.g. 5 pings 1 ttl)
+    added vantage points selection
+    improved output: city, country code, ttl
+    added in the demo statistics: ttl and rtt CDF, platforms and country Pie
+    unicast geolocation, show on the map the smallest circle
+
+    NOTE: ttl and city are optional as input
+
+1.0 first release
+
+Introduction
+-------------
+Thanks for downloading iGreedy, a tool able to detect, enumerate and 
+geolocate anycast replicas with a fistful of pings [1]. This brief readme
+file describes the basic steps to get started with the tool. The tool
+allows to  (i) analyze existing measurement or (ii) generate and analyze
+new measurement (iii) visualize the measurement on a GoogleMap [2]. 
+The package also contains (iv) datasets corredated  with ground-truth to 
+assess the accuracy of the tool. A technical report detailing the iGreedy 
+technique and dataset is available at:
+
+        http://www.telecom-paristech.fr/~drossi/anycast
+
+
+
+Installation
+-------------
+iGreedy should run out of the box. There is no python depenedency which 
+we are aware of. All the code you need is in the code/ folder
+
+
+Configuration
+-------------
+While running iGreedy on the provided datasets does not require any special
+configuration, however to launch new measurement from RIPE Atlas  or PlanetLab
+you need to: 
+(i) have a RIPE Atlas/PlanetLab account 
+(ii) have enough credits (Ripe)
+(iii) configure your authentication. 
+     a) Ripe:
+        Measurement are launched by code/RIPEAtlas.py which is going
+        to read your RIPE Atlas key from the following file:
+           datasets/auth
+    b) Planetlab:
+       Measurement are launched by code/ping-pl.sh which requires two parameters to be configured:
+           PLKEY="path_rsa_key" #rsa key, it has to be added on the PL node
+           SLICE_NAME="name_of_the_slice" #name of the slice
+
+Usage
+-------------
+usage:     
+  igreedy.py (-i INPUT | -m MEASUREMENT | -h) [-p PLANETLAB] [-r RIPE] [-o OUTPUT] 
+             [-g GROUNDTRUTH] [-a ALPHA (1)] [-n NOISE (0)] [-t TRESHOLD (\infty)]
+             [-b (false)]
+
+mandatory:
+     -i input file
+     -m IPV4 or IPV6 (real time measurements using the RIPE Atlas and/or PlanetLab vantage points in datasets/*-vps) 
+optional:
+     -o output prefix (.csv,.json)
+     -b browser (visualize a GoogleMap of the results in a browser)
+     -g measured ground truth (GT) or publicly available information (PAI) files 
+        (format: "hostname iata" lines for GT, "iata" lines for PAI)
+     -a alpha (tune population vs distance score; was 0.5 in INFOCOM'15, now defaults to 1, more details in TECHREP-16 or INFOCOM'15)
+     -t threshold (discard disks having latency larger than threshold to bound the error; discouraged)
+     -n noise (average of exponentially distributed additive latency noise; only for sensitivity)
+     -r vantage points file or number of random vantage points (datasets/ripe-vps) for real time measurements from Ripe Atlas 
+     -p vantage points file or number of random vantage points (datasets/planetlab-vps)for real time measurements from PlanetLab 
+
+Run iGreedy on existing measurement
+-------------------------------------
+
+
+iGreedy can run on existing datasets, e.g., over F root server:
+
+    ./igreedy -i datasets/measurement/f-planetlab
+
+Run iGreedy over the F root server dataset, showing results on a map (opening your browser):
+
+    ./igreedy -i datasets/measurement/f-planetlab -b
+
+Run iGreedy over the F root server dataset, showing results and ground truth on a map (opening your browser):
+
+    ./igreedy -i datasets/measurement/f-planetlab -g datasets/ground-truth/f-planetlab -b
+
+Run iGreedy over the EdgeCast dataset, using publicly available information
+
+    ./igreedy -i datasets/measurement/edgecast-ripe -g datasets/public-available-information/edgecast 
+
+Run iGreedy over the EdgeCast dataset, using publicly available information
+
+    ./igreedy -i datasets/measurement/cloudflare-planetlab -g datasets/ground-truth/cloudflare-planetlab
+  
+
+Run iGreedy on new measurement 
+----------------------------------------------
+
+Note1: read the Configuration section
+
+Note2: You are free to use your favorite sets of vantage points or use a set of random N vantage points(from dataset/*-vps, 
+       see below the examples).
+       From Ripe Atlas, we selected ~630 vantage points with a city geolocation accuracy(ripe-vps.cityAccuracy), 
+       from this, we extract some subset:
+        -ripe-vps.rand10, 10 vantage points, useful for the detection.
+        -ripe-vp.cityAccuracy-selected,  ~250 vantage points, useful for enumeration and geolocation.
+        -ripe-vps.500, 500 vantage points, maximum number of probes per measurement.  
+
+       From Planetlab, we have 2 datasets:
+        -planetlab-vps-all, all vantage points
+        -planetlab-vps, vantage points alive in the last days (it is possible to update them using the script ping-pl.sh)
+
+Note3: The set of measurements is saved in datasets/measurement for further post-processing
+
+Note4: The set of RIPE Atlas vantage points (dataset/ripe-vps-all) may be outdated since VPs change/increase over the time
+
+To run iGreedy on the F root server 192.5.5.241 using 5 Ripe Atlas VPs and 20 PlanetLab VPs , configure your keys (see above) then run:
+
+       ./igreedy -m 192.5.5.241 -p 20 -r 5 -b
+
+Run iGreedy over the F root server 192.5.5.241 using the the Ripe Atlas VPs saved in datasets/ripe-vps.rand10:
+
+       ./igreedy -m 192.5.5.241 -r datasets/ripe-vps.rand10 -b
+       
+
+------------------------------------
+Run iGreedy stream mode:
+
+        ./igreedy -m code/the1000ips -r datasets/ripe-vps -b
+        ./igreedy -m mashable.com -r ./datasets/ripe-vps -b
+------------------------------------
+
+
+Have fun!
+Danilo and Dario
+
+
+References
+----------
+
+The technique is explained here:  
+[1] D. Cicalese, D. Joumblatt, D. Rossi, M. Buob, J. Auge, T. Friedman,
+    A Fistful of Pings: Accurate and Lightweight Anycast Enumeration and 
+    Geolocation. In IEEE INFOCOM, Hong Kong, China, Apr 2015. 
+[2] D. Cicalese, D. Joumblatt, D. Rossi, M. Buob, J. Auge, T. Friedman, 
+    Latency-Based Anycast Geolocalization: Algorithms, Software and 
+    Datasets (Extended Technical Report) . In Tech. Rep., 2016. 
+
+The GoogleMap visualization was started here:
+[3] D. Cicalese, D. Joumblatt, D. Rossi, M. Buob, J. Auge, T. Friedman,
+    A Lightweight Anycast Enumeration and Geolocation. In IEEE INFOCOM, 
+    Demo Session, Hong Kong, China, Apr 2015.
+
+The data shown in the demo are detailed here:
+[4] D. Cicalese, D. Joumblatt, D. Rossi, J. Auge, T. Friedman,
+    Characterizing IPv4 Anycast Adoption and Deployment . In 
+    ACM CoNEXT, Heidelberg, December 2015. 
+
+You can find more resources and technical reports at:
+[5] http://www.telecom-paristech.fr/~drossi/anycast

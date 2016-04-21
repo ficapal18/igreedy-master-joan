@@ -1,0 +1,205 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta charset="UTF-8">
+    <title>Anycast Geolocation</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="jQueryThemes/start/jquery-ui-1.8.9.custom.css" type="text/css" />
+    <link type="text/css" rel="stylesheet" href="library/mPlane.css" media="all" />     <!--MPLANE css -->
+
+    <!--GOOGLE maps, cluster, heatmap -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=visualization&sensor=false"> </script>    <!--check the meaning of sensor -->
+    <script type="text/javascript" src="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/src/markerclusterer.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script><!--cdf -->
+
+    <script language="JavaScript" src="library/maps.js"></script><!--google maps script-->
+
+    <!--helper: css and js -->
+    <script src="library/helper/helper.js"></script>
+    <link href="library/helper/tooltip.css" rel="stylesheet" type="text/css" />
+    <script src="library/helper/tooltip.js" type="text/javascript"></script>
+    <script src="library/toggle.js"></script>
+    <!--autocomplete scripts-->
+    <script language="JavaScript" src="library/autocomplete/jquery-1.4.4.min.js"></script>
+    <script language="JavaScript" src="library/autocomplete/jquery.jsonSuggest-2.js"></script>
+    <script language="JavaScript" src="library/autocomplete/autocomplete.js"></script> 
+    <script language="JavaScript" src="data/listIp.json"></script><!--imput for autocomplete -->
+    <!-- script language="JavaScript" src="data/allProbes.json"></script><!--imput for autocomplete -->
+    <!--  graph -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.2/d3.min.js" charset="utf-8"></script>
+    <link href="library/graph/nv.d3.css" rel="stylesheet" type="text/css">
+    <script src="library/graph/nv.d3.js"></script>
+    <script src="library/graph/plotCDF.js"></script>
+    <script src="data/graphs/CDF/cdfTtl.json"></script>
+    <script src="data/graphs/CDF/cdfRtt.json"></script>
+    <script src="data/graphs/PIE/platformPie.json"></script>
+    <script src="data/graphs/PIE/countryPie.json"></script>
+    <script src="data/graphs/PIE/countryPie.json"></script>
+
+
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script>
+    $(function() {
+      $( "#slider-range" ).slider({
+        range: true,
+        min: 0,
+        max: 100,
+        values: [ 75, 100 ],
+        slide: function( event, ui ) {
+          $( "#amount" ).val(ui.values[ 0 ] + " - " + ui.values[ 1 ] +" %");
+        }
+      });
+      $( "#amount" ).val( $( "#slider-range" ).slider( "values", 0 ) +
+        " - " + $( "#slider-range" ).slider( "values", 1 ) + " %" );
+
+    });
+
+    </script>
+
+
+    <!--end autocomplete scripts-->
+    <!--<script language="JavaScript" src="library/scroll/jquery.onepage-scroll.js"></script>
+    <script language="JavaScript" src="library/scroll/onepage-scroll.css"></script> scroll in one page to integrate-->
+    <style>
+        text {
+            font: 12px sans-serif;
+        }
+        svg {
+            display: in-line;
+        }
+           #chart1,#chart2,#chartRtt, #chartTtl, #platformPie,#countryPie svg {
+            margin: 0px;
+            padding: 0px;
+            width: 48%;
+            height: 600px;
+        }
+    </style>
+</head>
+<body>
+
+<strong><span><h2 class="title">&nbsp &nbsp Anycast geolocation<span><a href="http://www.ict-mplane.eu" target="_blank"><img src="data/mplane_final_logo.png" align="right"></a>
+</h2><strong>
+&nbsp &nbsp<a href="http://perso.telecom-paristech.fr/~drossi/index.php?n=Dataset.Anycast" target="_blank">   More information about this project</a>
+<input type="checkbox" id="helperMode"/>
+<label for="helperMode">Helper mode</label>
+<p style="display: none";>
+&nbsp &nbsp Target:
+<span class="tooltip" onmouseover="tooltip.pop(this, showHelper('targetInput'))">
+<input type="text" size="50" id="suggestBox" value="output.json"  placeholder="Start to type an IP or a website, autocompletation will help you" onkeydown="if (event.keyCode == 13) document.getElementById('loadLocation').click()" /></span>
+<span class="tooltip" onmouseover="tooltip.pop(this, showHelper('localize'))">
+<input type="button" value="Localize" id="loadLocation" onclick="loadLocation(); setSpecification();"/></span>
+<span class="tooltip" onmouseover="tooltip.pop(this, showHelper('allAnycast'))">
+<input type="button" value="All anycast" id="allAnycast" onclick="document.getElementById('suggestBox').value = '0.0.0.0\t All anycast deployment(loading...)'; loadLocation(); " />
+<input type="button" value="Measure" onclick="measure()"/>
+<!--...
+<--!<input type="button" value="mPlane message" onclick="showMplaneMessage()"/>
+-->
+<p id="demo"></p>
+
+  <p>
+    <div style="color: black; float: left">
+        &nbsp &nbsp
+        <label for="fader" style="font-size:120%;">Circle radius</label>
+        <input type="range" min="100" max="6400" value="6371" id="fader" step="100" onchange="updateEmptyCircle2(value)" oninput="updateEmptyCircle(value)">
+        <output for="fader" id="volume">6371 km</output>
+    </div>
+
+
+<p>
+    <div style="color: black; float: right">
+  <label for="amount">Time range:</label>
+  <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;" onchange="updateEmptyCircle3()" oninput="updateEmptyCircle3()">
+    <div id="slider-range"></div>
+    </div>
+</p>
+
+
+ <div style="display: block";>
+&nbsp &nbsp
+            <input type="checkbox" id="cluster" checked onclick="enableDisableCluster()" />
+            <label for="cluster">Clustering</label>
+            <input type="checkbox" id="heatmap" onclick="enableDisableHeatmap()" />
+            <label for="heatmap">Heatmap</label>
+            <a href="#statistics" class="click">Statistics</a><br />
+        </div>
+ <span class="tooltip" onmouseover="tooltip.pop(this, showHelper('toggle'))">
+
+
+        <div id="toggleSection" style="color: black;">
+            &nbsp &nbsp
+            <input type="checkbox" id="GTToggle" onclick="showMarkersGT()" />
+            <label for="GTToggle">GT</label>
+            <input type="checkbox" id="hitToggle" onclick="showMarkersHit();" />
+            <label for="hitToggle">Replicas</label>
+            <input  style="display: none"; type="checkbox" id="missToggle" />
+            <label  style="display: none"; for="missToggle ">Miss</label>
+            <input  style="display: none"; type="checkbox" id="fpToggle" />
+            <label  style="display: none"; for="fpToggle">FP</label>
+            <input type="checkbox" id="probesToogle" onclick="showMarkersProbes()" />
+            <label for="probesToggle">Vantage Points</label>
+            <input style="display: none"; type="checkbox" id="probesToogle" onclick="showAllMarkersProbes()" />
+            <label style="display: none"; for="AllprobesToggle">All probes</label>
+            <input type="checkbox" id="circlesToggle" checked onclick="showCircles()" />
+            <label for="circlesToggle">Circles</label>
+        </div></span>
+        <p> &nbsp &nbsp
+            <label id='numberInstance'></label>
+            <label id='numberInstanceGT'></label>
+            <p>
+                <div id="map-container">
+                    <div id="map">
+                    </div>
+                </div>
+                    <textarea readOnly id="mplaneMessage"  placeholder="mPlane messages" ></textarea>
+
+<div id="container" />
+   <h1 id="statistics" align="center"> Measurement statistics</h1>
+    <div id='platformPie' style="float:left">
+        <h1 align="center"> Platforms</h1>
+        <svg></svg>
+    </div>
+    <div id='countryPie'>
+        <h1 align="center"> Measurement per country</h1>
+        <svg></svg>
+    </div>
+<h1 align="center"> RTT and TTL statistics</h1>
+    <div id='chartRtt' style="float:left">
+        <svg></svg>
+    </div>
+    <div id='chartTtl' style="float:left">
+        <svg></svg>
+    </div>
+
+<script type="text/javascript">
+     test();
+     loadLocation();
+
+     prova();
+
+     //<----------------------scroll with animation
+$('.click').click(function(e){
+   // prevent default action
+   e.preventDefault();
+   // get id of target div (placed in href attribute of anchor element)
+   // and pass it to the scrollToElement function
+    // also, use 1000 as an argument for the scroll speed (1 seconds, 1000 milliseconds)
+   scrollToElement( $(this).attr('href'), 1000 );
+});
+
+var scrollToElement = function(el, ms){
+    var speed = (ms) ? ms : 600;
+    $('html,body').animate({
+        scrollTop: $(el).offset().top
+    }, speed);
+}
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,41 @@
+var dataCountry=[
+{
+    "label": "Ukraine", 
+    "value": 3
+},
+{
+    "label": "Madagascar", 
+    "value": 3
+},
+{
+    "label": "Australia", 
+    "value": 3
+},
+{
+    "label": "Italy", 
+    "value": 3
+},
+{
+    "label": "Philippines", 
+    "value": 3
+},
+{
+    "label": "France", 
+    "value": 3
+},
+{
+    "label": "United States", 
+    "value": 3
+},
+{
+    "label": "Germany", 
+    "value": 3
+},
+{
+    "label": "Ireland", 
+    "value": 3
+},
+{
+    "label": "Others", 
+    "value": 0
+}]

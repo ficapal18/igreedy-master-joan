@@ -1,0 +1,1050 @@
+#1048 PlanetLab vantage points
+#hostname	latitude	longitude	city	country
+int-pl2.ise.eng.osaka-u.ac.jp	34.810000	135.520000	Eveleigh	Australia
+plab2.psgtech.ac.in	28.600000	77.090000	Namur	Belgium
+planet-lab.iki.rssi.ru	55.650000	37.500000	London	United Kingdom
+planetlab04.uncc.edu	35.306100	-80.732600	London	United Kingdom
+pl5.planetlab.uvic.ca	48.420000	-123.370000	Wuerzburg	GERMANY
+pllab1.kamgu.ru	53.000000	158.380000	ILLKIRCH CEDEX	FRANCE
+datacomngn.cnu.ac.kr	37.000000	127.500000	Athens	Greece
+planetlab1.ias.csusb.edu	34.001200	-117.003000	Madrid	Spain
+planetlab2.dtc.umn.edu	44.980000	-93.240000	Wuerzburg	GERMANY
+planetlab-01.cs.angelo.edu	31.439900	-100.460000	Evry	France
+planetlab1.nileu.edu.eg	30.072200	31.019700	Aveiro	Portugal
+planetlab3.gmf.ufcg.edu.br	-7.250000	-35.833300	London	United Kingdom
+charon.cs.binghamton.edu	42.088000	-75.968700	Modena	Italy
+planetlab01.erin.utoronto.ca	43.350000	-79.370000	London	United Kingdom
+planetlab1.homelinux.org	22.180000	114.100000	Modena	Italy
+pllab2.kamgu.ru	53.000000	158.380000	ILLKIRCH CEDEX	FRANCE
+pl1.bit.uoit.ca	43.944900	-78.891700	Rostock	Germany
+planetlab-1a.ics.uci.edu	33.670000	-117.810000	London	United Kingdom
+of-planet5.stanford.edu	37.429400	-122.172000	Wuerzburg	GERMANY
+mlab1.gr-ix.gr	37.971300	23.742400	Zografou	Greece
+node1.planetlab.etl.luc.edu	41.897400	-87.625300	Tel Aviv Yaffo	Israel
+planetlab2.simula.no	59.930000	10.750000	Udine (UD)	Italy
+planetlab02.erin.utoronto.ca	43.350000	-79.370000	London	United Kingdom
+deimos.cecalc.ula.ve	8.600000	-71.183300	Modena	Italy
+planetlabnode-2.docomolabs-usa.com	37.062500	-97.677100	Cesson-SÃ©vignÃ©	FRANCE
+plab1.psgtech.ac.in	28.600000	77.090000	Namur	Belgium
+csplanet2.ncat.edu	36.070000	-79.770000	Madrid	Spain
+int-pl1.ise.eng.osaka-u.ac.jp	34.810000	135.520000	Eveleigh	Australia
+planetlab03.uncc.edu	35.306100	-80.732600	London	United Kingdom
+planetlab1.engr.ccny.cuny.edu	40.430000	-74.000000	London	United Kingdom
+csplanet1.ncat.edu	36.070000	-79.770000	Madrid	Spain
+planetlab1.cnu.ac.kr	37.000000	127.500000	Athens	Greece
+planetlab3.cs.duke.edu	36.008800	-78.942700	Madrid	Spain
+planetlab1.rdfrancetelecom.com	48.870000	2.330000	Paris	France
+planetlab2.rdfrancetelecom.com	48.870000	2.330000	Paris	France
+planetlab1.iitr.ernet.in	29.850000	77.900000	Athens	Greece
+planetlab1.swidnik.rd.tp.pl	51.250000	22.686000	London	United Kingdom
+uw1.accretive-dsl.nodes.planet-lab.org	47.653100	-122.313000	Athens	Greece
+planetlab2.cse.nd.edu	41.700000	-86.238600	Oulu	Finland
+planetlab2.cse.msu.edu	42.740000	-84.480000	Madrid	Spain
+planetlab2.cs.duke.edu	36.008800	-78.942700	Madrid	Spain
+pl1.dce.edu	28.600000	77.090000	Namur	Belgium
+pl3.coep.org.in	28.600000	77.090000	Namur	Belgium
+pl4.coep.org.in	28.600000	77.090000	Namur	Belgium
+planetlab-1.rml.ryerson.ca	43.657500	-79.377200	Modena	Italy
+planetlab0.ias.csusb.edu	34.001200	-117.003000	Madrid	Spain
+planetlab-02.kyushu.jgn2.jp	0.000000	0.000000	Aalto	Finland
+planetlab-01.kyushu.jgn2.jp	0.000000	0.000000	Aalto	Finland
+planetlab1.gdansk.rd.tp.pl	54.330000	18.660000	Modena	Italy
+planetlab2.gdansk.rd.tp.pl	54.330000	18.660000	Modena	Italy
+planetlab1.poznan.rd.tp.pl	52.330000	17.000000	Modena	Italy
+planetlab2.poznan.rd.tp.pl	52.330000	17.000000	Modena	Italy
+planetlab1.nowogrodzka.rd.tp.pl	52.250000	21.000000	Modena	Italy
+planetlab5.cs.duke.edu	36.008800	-78.942700	Madrid	Spain
+planetlab-01.naist.jp	34.410000	135.500000	Napoli	Italy
+planetlab-04.naist.jp	34.410000	135.500000	Napoli	Italy
+vayu.iitd.ernet.in	28.400000	77.130000	Napoli	Italy
+planetlab-2.rml.ryerson.ca	43.657500	-79.377200	Modena	Italy
+pl2.ernet.in	28.600000	77.090000	Namur	Belgium
+planetlab2.iin-bit.com.cn	39.966300	116.317000	Klagenfurt	Austria
+planetlab3.piotrkow.rd.tp.pl	51.500000	19.683300	Modena	Italy
+planetlab3.poznan.rd.tp.pl	52.330000	17.000000	Modena	Italy
+planetlab4.poznan.rd.tp.pl	52.330000	17.000000	Modena	Italy
+planetlab2.lublin.rd.tp.pl	51.250000	22.686000	London	United Kingdom
+planetlab1.lublin.rd.tp.pl	51.250000	22.686000	London	United Kingdom
+planet-2.utn.edu.ar	-34.580000	-58.480000	Aveiro	Portugal
+pl1.cewit.stonybrook.edu	40.910000	-73.130000	Madrid	Spain
+pli1-br-3.hpl.hp.com	51.450000	-2.580000	Madrid	Spain
+planetlab2.kreonet.net	36.200000	127.260000	London	United Kingdom
+pli2-br-2.hpl.hp.com	51.450000	-2.580000	Madrid	Spain
+planetlab2.iii.u-tokyo.ac.jp	35.750000	139.500000	AlmerÃ­a	Spain
+planetlab1.ece.ucdavis.edu	38.720000	-121.430000	Warsaw	Poland
+pli1-br-2.hpl.hp.com	51.450000	-2.580000	Madrid	Spain
+pli2-br-1.hpl.hp.com	51.450000	-2.580000	Madrid	Spain
+planetlab2.cs.unb.ca	45.966700	-66.650000	Udine (UD)	Italy
+planetlab1.cs.unb.ca	45.966700	-66.650000	Udine (UD)	Italy
+pli1-tlnx.hpl.hp.com	51.450000	-2.580000	Madrid	Spain
+planetlab1.cs.duke.edu	36.008800	-78.942700	Madrid	Spain
+pluto.cs.binghamton.edu	42.088000	-75.968700	Modena	Italy
+planetlab2.engr.ccny.cuny.edu	40.430000	-74.000000	London	United Kingdom
+planetlab2.iitb.ac.in	18.580000	72.500000	London	United Kingdom
+planetlab1.iitb.ac.in	18.580000	72.500000	London	United Kingdom
+planetlab1.lsd.ufcg.edu.br	-7.250000	-35.833300	London	United Kingdom
+opal.cnu.ac.kr	37.000000	127.500000	Athens	Greece
+planetlab1.aub.edu.lb	33.530000	35.300000	London	United Kingdom
+planetlab2.aub.edu.lb	33.530000	35.300000	London	United Kingdom
+planetlab2.lsd.ufcg.edu.br	-7.250000	-35.833300	London	United Kingdom
+planet1.cdacb.ernet.in	12.590000	77.350000	London	United Kingdom
+planet2.cdacb.ernet.in	12.590000	77.350000	London	United Kingdom
+planetlab1.iiitb.ac.in	12.970000	77.580000	Udine (UD)	Italy
+planetlab1.kreonet.net	36.200000	127.260000	London	United Kingdom
+planetlab2.iiitb.ac.in	12.970000	77.580000	Udine (UD)	Italy
+pl2.cewit.stonybrook.edu	40.910000	-73.130000	Madrid	Spain
+planetlab1.cs.wayne.edu	42.357300	-83.067700	Modena	Italy
+planet2.scs.cs.nyu.edu	40.729200	-73.993700	Modena	Italy
+planetlab-02.naist.jp	34.410000	135.500000	Napoli	Italy
+planetlab2.olsztyn.rd.tp.pl	53.860000	20.590000	London	United Kingdom
+planetlab1.it.uts.edu.au	-33.887400	151.195000	Rio-Patras	Greece
+planetlab2.it.uts.edu.au	-33.887400	151.195000	Rio-Patras	Greece
+planetlab1.cs.uchicago.edu	41.789400	-87.601100	Tel Aviv Yaffo	Israel
+planetlab2.cs.uchicago.edu	41.789400	-87.601100	Tel Aviv Yaffo	Israel
+planetlab1.uc.edu	39.110000	-84.500000	Paris	France
+planetlab2.uc.edu	39.110000	-84.500000	Paris	France
+planetlab1.csail.mit.edu	42.363000	-71.092600	Modena	Italy
+planetlab3.csail.mit.edu	42.363000	-71.092600	Modena	Italy
+planetlab2.csail.mit.edu	42.363000	-71.092600	Modena	Italy
+planetlab-03.naist.jp	34.410000	135.500000	Napoli	Italy
+planetlab-1.unk.edu	40.700000	-99.100000	London	United Kingdom
+planetlab-2.unk.edu	40.700000	-99.100000	London	United Kingdom
+mlab3.gr-ix.gr	37.971300	23.742400	Zografou	Greece
+ks.measurementlab.net	37.416700	-122.059000	Wuerzburg	GERMANY
+planetlab-1.vuse.vanderbilt.edu	36.145000	-86.804100	Oulu	Finland
+planetlab-2.vuse.vanderbilt.edu	36.145000	-86.804100	Oulu	Finland
+node1.planetlab.uprr.pr	36.809300	-76.640600	Oulu	Finland
+node2.planetlab.uprr.pr	36.809300	-76.640600	Oulu	Finland
+planetlab2.piotrkow.rd.tp.pl	51.500000	19.683300	Modena	Italy
+planetlab1.piotrkow.rd.tp.pl	51.500000	19.683300	Modena	Italy
+planetlab-3.ics.uci.edu	33.670000	-117.810000	London	United Kingdom
+pl4.planetlab.uvic.ca	48.420000	-123.370000	Wuerzburg	GERMANY
+planetlab2.rd.tut.fi	61.449000	23.855000	Tampere	Finland
+pl2.bit.uoit.ca	43.944900	-78.891700	Rostock	Germany
+planetlab1.n.info.eng.osaka-cu.ac.jp	34.592700	135.504000	Madrid	Spain
+planetlab2.n.info.eng.osaka-cu.ac.jp	34.592700	135.504000	Madrid	Spain
+node1.planet-lab.titech.ac.jp	35.605600	139.685000	Modena	Italy
+node3.planet-lab.titech.ac.jp	35.605600	139.685000	Modena	Italy
+node4.planet-lab.titech.ac.jp	35.605600	139.685000	Modena	Italy
+planetlab3.n.info.eng.osaka-cu.ac.jp	34.592700	135.504000	Madrid	Spain
+pn1-planetlab.huawei.com	22.652700	114.054000	Rio-Patras	Greece
+pn2-planetlab.huawei.com	22.652700	114.054000	Rio-Patras	Greece
+node0.planetlab.etl.luc.edu	41.897400	-87.625300	Tel Aviv Yaffo	Israel
+planetlab1.keldysh.ru	55.067000	38.833000	Athens	Greece
+planetlab2.keldysh.ru	55.067000	38.833000	Athens	Greece
+planetlab1.cs.dartmouth.edu	41.616700	-70.966700	Udine (UD)	Italy
+planetlab2.cs.dartmouth.edu	41.616700	-70.966700	Udine (UD)	Italy
+planetlab1.simula.no	59.930000	10.750000	Udine (UD)	Italy
+itchy.cs.uga.edu	33.980000	-83.360000	Udine (UD)	Italy
+scratchy.cs.uga.edu	33.980000	-83.360000	Udine (UD)	Italy
+planetlab-1.ece.iastate.edu	42.020000	-93.370000	Opole	Poland
+mnc2.pusan.ac.kr	35.234600	129.083000	Tarragona	Spain
+planetlab1.iin-bit.com.cn	39.966300	116.317000	Klagenfurt	Austria
+lab1.asmdba.com	25.170000	110.190000	Passau	Germany
+agni.iitd.ernet.in	28.400000	77.130000	Napoli	Italy
+planetlab2.nileu.edu.eg	30.072200	31.019700	Aveiro	Portugal
+planetlab1.cse.msu.edu	42.740000	-84.480000	Madrid	Spain
+planetlabnode-1.docomolabs-usa.com	37.062500	-97.677100	Cesson-SÃ©vignÃ©	FRANCE
+mlab2.gr-ix.gr	37.971300	23.742400	Zografou	Greece
+mnc1.pusan.ac.kr	35.234600	129.083000	Tarragona	Spain
+planetlab2.iitr.ernet.in	29.850000	77.900000	Athens	Greece
+fobos.cecalc.ula.ve	8.600000	-71.183300	Modena	Italy
+cs744.cs.nthu.edu.tw	23.500000	121.000000	Ljubljana	Slovenia
+planetlab3.cesnet.cz	50.102000	14.391600	Sainte Clotilde	FRANCE
+pli1-pa-1.hpl.hp.com	37.440000	-122.150000	Madrid	Spain
+orbpl2.rutgers.edu	40.480000	-74.450000	Budapest	Hungary
+planetlab2.nowogrodzka.rd.tp.pl	52.250000	21.000000	Modena	Italy
+planetlab1.dtc.umn.edu	44.980000	-93.240000	Wuerzburg	GERMANY
+planetlab2.cs.du.edu	39.679800	-104.963000	Tarragona	Spain
+planetlab-2.scie.uestc.edu.cn	30.452800	103.553000	Rostock	Germany
+planetlab-js2.cert.org.cn	32.061000	118.791000	Koszalin	Poland
+anateus.ipv6.lip6.fr	48.847300	2.357490	Paris	France
+planetlab2.fct.ualg.pt	37.010000	-7.960000	Faro	Portugal
+planetlab3.ucsd.edu	32.877000	-117.237000	Modena	Italy
+planetlab8.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab2.eecs.jacobs-university.de	53.040000	8.490000	PARMA	ITALY
+planetlab2.tmit.bme.hu	47.472500	19.060000	Budapest	Hungary
+planetlab2.informatik.uni-kl.de	49.450000	7.780000	Kaiserslautern	Germany
+empusa.ipv6.lip6.fr	48.847300	2.357490	Paris	France
+sybaris.ipv6.lip6.fr	48.847300	2.357490	Paris	France
+plan1.project.cwi.nl	52.220000	4.530000	Amsterdam	The Netherlands
+ampelos.ipv6.lip6.fr	48.847300	2.357490	Paris	France
+server1.planetlab.iit-tech.net	41.838300	-87.629000	Namur	Belgium
+planetslug4.cse.ucsc.edu	37.000000	-122.060000	Udine (UD)	Italy
+planet-plc-3.mpi-sws.org	49.140000	6.590000	Ljubljana	Slovenia
+planetlab-03.cs.princeton.edu	40.350200	-74.652400	Sofia Antipolis	France
+planetlab2.informatik.uni-wuerzburg.de	49.800000	9.930000	Wuerzburg	GERMANY
+planetlab1.informatik.uni-erlangen.de	49.360000	11.000000	Erlangen	Germany
+planetlab-2.imperial.ac.uk	51.498000	-0.176655	London	United Kingdom
+planetlab1.iis.sinica.edu.tw	25.020000	121.370000	Tarragona	Spain
+planetlab2.wiwi.hu-berlin.de	52.521100	13.403100	Berlin	Germany
+planetlab1.csg.uzh.ch	47.230000	8.320000	ZÃ¼rich	Switzerland
+planetlab1.science.unitn.it	46.066000	11.150000	Wien	Austria
+planet-lab1.cs.ucr.edu	33.950000	-117.390000	Sainte Clotilde	FRANCE
+mlabtest.cs.princeton.edu	40.350200	-74.652400	Sofia Antipolis	France
+planetlab1.thlab.net	48.831900	2.280970	BOULOGNE-BILLANCOURT	FRANCE
+planetlab-2.cs.unibas.ch	47.550000	7.600000	Berlin	GERMANY
+planetlab1.polito.it	45.070000	7.670000	Torino	Italy
+planetlab-node-02.ucd.ie	53.309200	-6.221690	Dublin	Ireland
+planet2.colbud.hu	47.430000	19.250000	Braga	Portugal
+planetlab-1.tagus.ist.utl.pt	38.737300	-9.303240	Porto Salvo	Portugal
+pl1.ccsrfi.net	51.243600	-0.588343	Guilford	United Kingdom
+ple1.hpca.ual.es	36.830000	-2.404540	AlmerÃ­a	Spain
+host4-plb.loria.fr	48.666100	6.157750	Krakow	Poland
+planetlab-2.man.poznan.pl	52.411800	16.916500	Stuttgart	Germany
+planetlab2.esprit-tn.com	36.000000	10.000000	Ariana, Tunis	Tunisia
+ple2.hpca.ual.es	36.830000	-2.404540	AlmerÃ­a	Spain
+gschembra3.diit.unict.it	37.525800	15.074900	Budapest	Hungary
+planetlab-4.imperial.ac.uk	51.498000	-0.176655	London	United Kingdom
+planetlab1.netlab.uky.edu	38.040100	-84.505400	Madrid	Spain
+planetlab-4.dis.uniroma1.it	41.891000	12.503700	Rome	Italy
+planetlab1.buaa.edu.cn	39.900000	116.500000	Madrid	Spain
+planet-plc-1.mpi-sws.org	49.140000	6.590000	Ljubljana	Slovenia
+planetlab1.iii.u-tokyo.ac.jp	35.750000	139.500000	AlmerÃ­a	Spain
+planetlab01.alucloud.com	41.812400	-88.119700	Lisboa	PORTUGAL
+plnode02.cs.mu.oz.au	-37.800000	144.900000	Ariana, Tunis	Tunisia
+planetlab02.cnds.unibe.ch	46.570000	7.260000	Bern	Switzerland
+planetlab1.informatik.uni-wuerzburg.de	49.800000	9.930000	Wuerzburg	GERMANY
+planetlab1.byu.edu	40.140000	-111.390000	Napoli	Italy
+planetlab2.ionio.gr	39.620500	19.914800	Corfu	Greece
+pl2.eecs.utk.edu	35.948300	-83.936700	Madrid	Spain
+ricepl-2.cs.rice.edu	29.722500	-95.392400	Modena	Italy
+planetlab2.eecs.umich.edu	42.294400	-83.712600	Modena	Italy
+gschembra4.diit.unict.it	37.525800	15.074900	Budapest	Hungary
+planetlab1.pop-ce.rnp.br	-3.735200	-38.581600	Athens	Greece
+planetlab1.s3.kth.se	59.349500	18.067000	Tarragona	Spain
+planetlab2.pop-ce.rnp.br	-3.735200	-38.581600	Athens	Greece
+planetlab02.uncc.edu	35.306100	-80.732600	London	United Kingdom
+planetlab1.willab.fi	60.182600	24.825900	Krakow	Poland
+planetlab01.dis.unina.it	40.828300	14.190600	Napoli	Italy
+planetlab-2.ing.unimo.it	44.621800	10.963700	Modena	Italy
+planetlab1.hiit.fi	60.100000	25.000000	Aalto	Finland
+planetlab1.tlm.unavarra.es	42.799300	-1.635440	Pamplona	Spain
+planetlab1.cs.uoi.gr	39.618200	20.838600	Ioannina	GREECE
+onelab-2.fhi-fokus.de	52.525800	13.314300	Rio-Patras	Greece
+planetlab04.cnds.unibe.ch	46.570000	7.260000	Bern	Switzerland
+pl2.ccsrfi.net	51.243600	-0.588343	Guilford	United Kingdom
+planetlab2.koganei.itrc.net	35.700000	139.767000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab4.georgetown.edu	38.540000	-77.040000	Nicosia	Cyprus
+planck228ple.test.ibbt.be	51.040000	3.740000	Thessaloniki	GREECE
+planetlab-1.cs.unibas.ch	47.550000	7.600000	Berlin	GERMANY
+lefthand.eecs.harvard.edu	42.378800	-71.116400	Lausanne	Switzerland
+planetlab-3.iscte.pt	38.430000	-9.080000	Lisboa	PORTUGAL
+planetlab-1.cse.ohio-state.edu	39.980000	-83.030000	Berlin	Germany
+evghu12.colbud.hu	47.430000	19.250000	Braga	Portugal
+planetlab1.elet.polimi.it	45.280000	9.120000	St Andrews	Scotland
+uoepl1.essex.ac.uk	51.875400	0.944138	Colchester	England
+planetlab-1.fhi-fokus.de	52.525800	13.314300	Rio-Patras	Greece
+planetlab2.cs.uit.no	69.681300	18.977000	Tromso	Norway
+planetlab-2.cs.colostate.edu	40.350000	-105.050000	Klagenfurt	Austria
+host3-plb.loria.fr	48.666100	6.157750	Krakow	Poland
+planet1.inf.tu-dresden.de	51.026000	13.725000	Dresden	Germany
+planetlab1.jcp-consult.net	48.117900	-1.607530	Cesson-SÃ©vignÃ©	FRANCE
+ait05.us.es	37.420000	-5.900000	Sevilla	Spain
+planetlab02.ethz.ch	47.383300	8.533330	Budapest	Hungary
+inriarennes2.irisa.fr	48.115500	-1.650710	Eveleigh	Australia
+planet1.cs.huji.ac.il	31.785700	35.200700	Tel Aviv Yaffo	Israel
+host1.planetlab.informatik.tu-darmstadt.de	49.530000	8.400000	Darmstadt	Germany
+planetlab2.iis.sinica.edu.tw	25.020000	121.370000	Tarragona	Spain
+planetlab-1.iscte.pt	38.430000	-9.080000	Lisboa	PORTUGAL
+planetlab2.cyfronet.pl	50.069600	19.910000	Krakow	Poland
+peeramidion.irisa.fr	48.115500	-1.650710	Eveleigh	Australia
+pl1.cs.unm.edu	35.080000	-106.650000	Madrid	Spain
+planetlab3.hiit.fi	60.100000	25.000000	Aalto	Finland
+pl2-higashi.ics.es.osaka-u.ac.jp	34.810000	135.520000	Eveleigh	Australia
+planetlab1.cse.nd.edu	41.700000	-86.238600	Oulu	Finland
+onelab3.info.ucl.ac.be	50.683300	4.616670	Louvain-la-Neuve	Belgium
+planet-lab-node1.netgroup.uniroma2.it	41.855600	12.624300	Roma	Italy
+planetlab-01.ece.uprm.edu	18.200000	-67.140000	Nicosia	Cyprus
+planetlab1.pop-mg.rnp.br	-19.933300	-43.950000	Torino	Italy
+planetlab2.di.unito.it	45.070000	7.670000	Torino	Italy
+planetlab1.csie.nuk.edu.tw	22.732800	120.286000	Klagenfurt	Austria
+planetlab-02.ece.uprm.edu	18.200000	-67.140000	Nicosia	Cyprus
+planetlab3.netmedia.gist.ac.kr	37.530000	127.000000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab1.ucsd.edu	32.877000	-117.237000	Modena	Italy
+planetlab1.inf.ethz.ch	47.379400	8.545130	Prague	Czech Republic
+planetlab4.inf.ethz.ch	47.379400	8.545130	Prague	Czech Republic
+evghu13.colbud.hu	47.430000	19.250000	Braga	Portugal
+planetlab1.urv.cat	41.070000	1.150000	Tarragona	Spain
+planetlab2.hiit.fi	60.100000	25.000000	Aalto	Finland
+plab-2.diegm.uniud.it	46.066000	13.233000	Udine (UD)	Italy
+planetlab-2.infotech.monash.edu.my	3.064320	101.601000	Rio-Patras	Greece
+evghu11.colbud.hu	47.430000	19.250000	Braga	Portugal
+planetlab4.singaren.net.sg	1.451410	103.918000	Nicosia	Cyprus
+planetlab3.cs.uoregon.edu	44.040000	-123.060000	Bern	Switzerland
+planetlab1.uc3m.es	40.354500	-3.744630	Madrid	Spain
+planetlab01.ethz.ch	47.383300	8.533330	Budapest	Hungary
+planetlab4.netmedia.gist.ac.kr	37.530000	127.000000	Cesson-SÃ©vignÃ©	FRANCE
+ttu2-1.nodes.planet-lab.org	33.587400	-101.875000	Tarragona	Spain
+planetlab1.cs.stevens-tech.edu	40.750000	-74.033300	Udine (UD)	Italy
+nw142.csie.ncu.edu.tw	24.967600	121.188000	LiÃ¨ge	Belgique
+recall.snu.ac.kr	37.530000	127.000000	Madrid	Spain
+evghu5.colbud.hu	47.430000	19.250000	Braga	Portugal
+plab1.tidprojects.com	41.412400	2.221020	Barcelona	Spain
+planetlab-3.imperial.ac.uk	51.498000	-0.176655	London	United Kingdom
+onelab7.iet.unipi.it	43.720700	10.385200	Evry	France
+evghu2.colbud.hu	47.430000	19.250000	Braga	Portugal
+chronos.disy.inf.uni-konstanz.de	51.120000	10.540000	Konstanz	Germany
+onelab11.pl.sophia.inria.fr	43.615600	7.068740	Berlin	Germany
+planet1.itc.auth.gr	40.000000	22.000000	Thessaloniki	GREECE
+planet2.l3s.uni-hannover.de	52.400000	9.730000	Hannover	Germany
+planetlab2.aston.ac.uk	52.486600	-1.890980	Birmingham	United Kingdom
+planetlab2.uc3m.es	40.354500	-3.744630	Madrid	Spain
+planetlab2.jcp-consult.net	48.117900	-1.607530	Cesson-SÃ©vignÃ©	FRANCE
+planetlab-node1.it-sudparis.eu	48.000000	2.000000	Evry	France
+pierre.iet.unipi.it	43.505200	10.325200	Livorno	Italy
+marie.iet.unipi.it	43.505200	10.325200	Livorno	Italy
+dannan.disy.inf.uni-konstanz.de	51.120000	10.540000	Konstanz	Germany
+planetlab2.tsuniv.edu	36.165900	-86.831300	Braga	Portugal
+planetlab2.eecs.northwestern.edu	42.050000	-87.690000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab2.clemson.edu	34.675400	-82.839400	Napoli	Italy
+evghu7.colbud.hu	47.430000	19.250000	Braga	Portugal
+planetlab2.urv.cat	41.070000	1.150000	Tarragona	Spain
+planetlab2.iitkgp.ac.in	22.317100	87.312200	Nicosia	Cyprus
+planetlab2.willab.fi	60.182600	24.825900	Krakow	Poland
+planetlab2.utt.fr	48.269300	4.067390	Faro	Portugal
+planetlab2.dit.upm.es	40.420000	-3.720000	Sofia Antipolis	France
+planetlab1.mnlab.cti.depaul.edu	41.880000	-87.630000	Murcia	Spain
+chimay.infonet.fundp.ac.be	50.467000	4.867000	Namur	Belgium
+planet-plc-4.mpi-sws.org	49.140000	6.590000	Ljubljana	Slovenia
+evghu8.colbud.hu	47.430000	19.250000	Braga	Portugal
+planet-plc-5.mpi-sws.org	49.140000	6.590000	Ljubljana	Slovenia
+planetlab2.um.es	38.023200	-1.174730	Murcia	Spain
+pl2.prakinf.tu-ilmenau.de	50.681000	10.938600	Ilmenau	Germany
+planck249ple.test.iminds.be	51.040000	3.740000	Thessaloniki	GREECE
+planetlab1.cs.uiuc.edu	40.110300	-88.227200	Cesson-SÃ©vignÃ©	FRANCE
+iraplab1.iralab.uni-karlsruhe.de	49.015000	8.405000	Madrid	Spain
+iraplab2.iralab.uni-karlsruhe.de	49.015000	8.405000	Madrid	Spain
+planetlab2.montefiore.ulg.ac.be	50.580000	5.560000	LiÃ¨ge	Belgique
+evghu6.colbud.hu	47.430000	19.250000	Braga	Portugal
+evghu1.colbud.hu	47.430000	19.250000	Braga	Portugal
+prometeusz.we.po.opole.pl	50.681100	17.943800	Opole	Poland
+planetlab1.cyfronet.pl	50.069600	19.910000	Krakow	Poland
+planetlab2.upc.es	41.389700	2.112730	Barcelona	Spain
+planetlabeu-2.tssg.org	52.244100	-7.158250	Berlin	GERMANY
+ple2.tu.koszalin.pl	54.204700	16.197200	Koszalin	Poland
+planetlab1.mini.pw.edu.pl	52.222100	21.006900	Warsaw	Poland
+evghu10.colbud.hu	47.430000	19.250000	Braga	Portugal
+planetlab-12.e5.ijs.si	46.042300	14.488000	Ljubljana	Slovenia
+evghu4.colbud.hu	47.430000	19.250000	Braga	Portugal
+planetlab1.rd.tut.fi	61.449000	23.855000	Tampere	Finland
+planetlab1.imp.fu-berlin.de	52.455300	13.295600	Berlin	Germany
+planetlabpc1.upf.edu	41.384900	2.186400	Krakow	Poland
+planetlab3.cs.cornell.edu	42.443600	-76.481600	Koszalin	Poland
+planetlab4.cs.cornell.edu	42.443600	-76.481600	Koszalin	Poland
+evghu14.colbud.hu	47.430000	19.250000	Braga	Portugal
+pl1.bell-labs.fr	48.668200	2.240500	NOZAY	France
+node2pl.planet-lab.telecom-lille1.eu	50.610300	3.135250	Stuttgart	Germany
+host3.planetlab.informatik.tu-darmstadt.de	49.530000	8.400000	Darmstadt	Germany
+planetlab2.exp-math.uni-essen.de	51.250000	6.460000	Essen	Germany
+ple1.dmcs.p.lodz.pl	51.746100	19.455600	ÅÃ³dÅº	Poland
+planetlab-2.iscte.pt	38.430000	-9.080000	Lisboa	PORTUGAL
+planetlab1.di.unito.it	45.070000	7.670000	Torino	Italy
+planetlab1.ifi.uio.no	59.930000	10.750000	London	United Kingdom
+evghu9.colbud.hu	47.430000	19.250000	Braga	Portugal
+onelab4.warsaw.rd.tp.pl	52.222100	21.006900	Warsaw	Poland
+plab1.cs.ust.hk	22.300000	114.166000	Ioannina	GREECE
+ple5.ipv6.lip6.fr	48.847300	2.357490	Paris	France
+planet1.servers.ua.pt	40.640100	-8.656280	Aveiro	Portugal
+mlc1.measurementlab.net	37.416700	-122.059000	Wuerzburg	GERMANY
+mlc2.measurementlab.net	37.416700	-122.059000	Wuerzburg	GERMANY
+planetlab-1.scie.uestc.edu.cn	30.452800	103.553000	Rostock	Germany
+planetlab1.eecs.northwestern.edu	42.050000	-87.690000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab2.csres.utexas.edu	30.286900	-97.736600	Cesson-SÃ©vignÃ©	FRANCE
+planetlab1.informatik.uni-goettingen.de	51.362200	9.559960	Goettingen	Germany
+planetlab2.mini.pw.edu.pl	52.222100	21.006900	Warsaw	Poland
+righthand.eecs.harvard.edu	42.378800	-71.116400	Lausanne	Switzerland
+onelab2.info.ucl.ac.be	50.683300	4.616670	Louvain-la-Neuve	Belgium
+planetlab01.tkn.tu-berlin.de	52.500000	13.300000	Tirgu Mures	Romania
+planetlab01.cs.tcd.ie	53.240000	-6.240000	Barcelona	Spain
+planetlab2.ics.forth.gr	35.170000	25.000000	Heraklion, Crete	Greece
+planet02.hhi.fraunhofer.de	52.520000	13.320000	Berlin	GERMANY
+onelab3.warsaw.rd.tp.pl	52.176200	21.001200	Warsaw	Poland
+planetlab2.iiitd.edu.in	28.544700	77.272600	Wuerzburg	GERMANY
+dplanet1.uoc.edu	41.390900	2.167910	Barcelona	Spain
+planetlab1.koganei.itrc.net	35.700000	139.767000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab-2.fhi-fokus.de	52.525800	13.314300	Rio-Patras	Greece
+planetlab1.cs.columbia.edu	40.808000	-73.963900	Cesson-SÃ©vignÃ©	FRANCE
+orbpl1.rutgers.edu	40.480000	-74.450000	Budapest	Hungary
+planetlab-um00.di.uminho.pt	41.561500	-8.397220	Braga	Portugal
+planetlab4.csail.mit.edu	42.363000	-71.092600	Modena	Italy
+planetlab4.cs.duke.edu	36.008800	-78.942700	Madrid	Spain
+planetlab-2a.ics.uci.edu	33.670000	-117.810000	London	United Kingdom
+planet2.cc.gt.atl.ga.us	33.777200	-84.397600	Cesson-SÃ©vignÃ©	FRANCE
+orval.infonet.fundp.ac.be	50.467000	4.867000	Namur	Belgium
+netapp6.cs.kookmin.ac.kr	37.611800	126.999000	Tarragona	Spain
+planetlab-coffee.ait.ie	53.418700	-7.905570	Athlone	Ireland
+node2.planetlab.uni-luebeck.de	53.834100	10.704300	Luebeck	Deutschland
+netapp7.cs.kookmin.ac.kr	37.611800	126.999000	Tarragona	Spain
+planetlab1.dit.upm.es	40.420000	-3.720000	Sofia Antipolis	France
+vn4.cse.wustl.edu	38.647900	-90.301500	Munich	Germany
+plab1.create-net.org	46.067100	11.155000	Trento	Italy
+planetlab1.just.edu.jo	32.493100	35.987500	Napoli	Italy
+planetlab-2.sjtu.edu.cn	31.199200	121.430000	Klagenfurt	Austria
+planetlab2.unineuchatel.ch	46.590000	6.560000	Neuchatel	Switzerland
+planetlab1.cnds.jhu.edu	39.330000	-76.600000	Madrid	Spain
+planetlab4.cs.uiuc.edu	40.110300	-88.227200	Cesson-SÃ©vignÃ©	FRANCE
+planetlab14.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+plgmu4.ite.gmu.edu	38.510000	-77.180000	Rio-Patras	Greece
+planetlab1.eecs.umich.edu	42.294400	-83.712600	Modena	Italy
+planetlab-04.cs.princeton.edu	40.350200	-74.652400	Sofia Antipolis	France
+plnode-04.gpolab.bbn.com	42.390700	-71.147800	Oulu	Finland
+planet2.unipr.it	44.800900	10.325500	PARMA	ITALY
+planetlab2.umassd.edu	41.628600	-71.006100	Erlangen	Germany
+planetlab-4.iscte.pt	38.430000	-9.080000	Lisboa	PORTUGAL
+planetlab1.uta.edu	32.730000	-97.115000	Oulu	Finland
+planetlab5.csail.mit.edu	42.363000	-71.092600	Modena	Italy
+planetlab2.citadel.edu	32.798400	-79.961400	Modena	Italy
+planetlab2.ci.pwr.wroc.pl	51.100000	16.930000	Wroclaw	Poland
+planetlab1.fri.uni-lj.si	46.031900	14.305200	Ljubljana	Slovenia
+planetlab3.upc.es	41.389700	2.112730	Barcelona	Spain
+planetlab3.csres.utexas.edu	30.286900	-97.736600	Cesson-SÃ©vignÃ©	FRANCE
+planet1.cc.gt.atl.ga.us	33.777200	-84.397600	Cesson-SÃ©vignÃ©	FRANCE
+planetlab1.cis.upenn.edu	39.951700	-75.190400	Birmingham	United Kingdom
+wlab02.pl.sophia.inria.fr	43.615600	7.068740	Berlin	Germany
+ple1.ait.ac.th	14.142600	100.604000	Klong Luang	Thailand
+planetlab1.exp-math.uni-essen.de	51.250000	6.460000	Essen	Germany
+plgmu1.ite.gmu.edu	38.510000	-77.180000	Rio-Patras	Greece
+planetlab3.cs.columbia.edu	40.808000	-73.963900	Cesson-SÃ©vignÃ©	FRANCE
+planetlab2.csee.usf.edu	28.058700	-82.415200	Klagenfurt	Austria
+planetlab2.postel.org	33.981500	-118.460000	Modena	Italy
+planetlab1.unr.edu	39.539800	-119.814000	Budapest	Hungary
+planetlab2.ie.cuhk.edu.hk	22.300000	114.166000	Modena	Italy
+planetlab2.netmedia.gist.ac.kr	37.530000	127.000000	Cesson-SÃ©vignÃ©	FRANCE
+pl1.prakinf.tu-ilmenau.de	50.681000	10.938600	Ilmenau	Germany
+pli1-pa-2.hpl.hp.com	37.440000	-122.150000	Madrid	Spain
+planetlab2.pop-mg.rnp.br	-19.933300	-43.950000	Torino	Italy
+planetlabeu-1.tssg.org	52.244100	-7.158250	Berlin	GERMANY
+plab2.nec-labs.com	40.370000	-74.640000	Rio-Patras	Greece
+planetlab-1.ssvl.kth.se	59.520000	17.380000	Napoli	Italy
+pl2.6test.edu.cn	40.000000	116.327000	Reykjavik	Iceland
+planetlab4.rutgers.edu	40.489600	-74.408200	Madrid	Spain
+planet0.jaist.ac.jp	39.380000	140.050000	Modena	Italy
+planetlab1.cesnet.cz	50.102000	14.391600	Sainte Clotilde	FRANCE
+planet3.cc.gt.atl.ga.us	33.777200	-84.397600	Cesson-SÃ©vignÃ©	FRANCE
+planetlab4.williams.edu	42.710000	-73.200000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab2.bgu.ac.il	31.500000	34.750000	Goettingen	Germany
+planetlab2.imp.fu-berlin.de	52.455300	13.295600	Berlin	Germany
+planetlab2.buaa.edu.cn	39.900000	116.500000	Madrid	Spain
+planet-lab3.uba.ar	-34.597500	-58.398500	Napoli	Italy
+pl2.cs.unm.edu	35.080000	-106.650000	Madrid	Spain
+pl3.cs.unm.edu	35.080000	-106.650000	Madrid	Spain
+ple2.ait.ac.th	14.142600	100.604000	Klong Luang	Thailand
+planetlab2.rutgers.edu	40.489600	-74.408200	Madrid	Spain
+pl2.bell-labs.fr	48.668200	2.240500	NOZAY	France
+planetlab1.net.in.tum.de	48.149300	11.566900	Munich	Germany
+planetlab1.diku.dk	55.701400	12.561200	Copenhagen	DENMARK
+planetlab1.eurecom.fr	43.628500	7.051620	Sofia Antipolis	France
+mars.planetlab.haw-hamburg.de	53.568600	10.038600	Hamburg	Germany
+planetlab2.csg.uzh.ch	47.230000	8.320000	ZÃ¼rich	Switzerland
+merkur.planetlab.haw-hamburg.de	53.568600	10.038600	Hamburg	Germany
+planetlab1.um.es	38.023200	-1.174730	Murcia	Spain
+planetlab13.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab1.u-strasbg.fr	48.523700	7.738330	ILLKIRCH CEDEX	FRANCE
+planetlab2.fri.uni-lj.si	46.031900	14.305200	Ljubljana	Slovenia
+planetlab-1.ing.unimo.it	44.621800	10.963700	Modena	Italy
+planet1.colbud.hu	47.430000	19.250000	Braga	Portugal
+plab1.ple.silweb.pl	50.290100	18.677300	Gliwice	Poland
+planetlab-node3.it-sudparis.eu	48.000000	2.000000	Evry	France
+rochefort.infonet.fundp.ac.be	50.467000	4.867000	Namur	Belgium
+pandora.we.po.opole.pl	50.681100	17.943800	Opole	Poland
+planetlab-1.infotech.monash.edu.my	3.064320	101.601000	Rio-Patras	Greece
+planetlab2.informatik.uni-erlangen.de	49.360000	11.000000	Erlangen	Germany
+planetlab-3.cs.ucy.ac.cy	35.150000	33.360000	Nicosia	Cyprus
+planetlab1.di.fct.unl.pt	38.672000	-9.184230	Monte da Caparica	Portugal
+plato.di.uoa.gr	37.968400	23.766900	Athens	Greece
+dfn-ple1.x-win.dfn.de	49.575000	11.028700	Berlin	Germany
+node1.planetlab.uni-luebeck.de	53.834100	10.704300	Luebeck	Deutschland
+utet.ii.uam.es	40.436300	-3.694130	Lausanne	Switzerland
+planet1.elte.hu	47.474400	19.062200	Stuttgart	Germany
+planetlab1.wiwi.hu-berlin.de	52.521100	13.403100	Berlin	Germany
+dschinni.planetlab.extranet.uni-passau.de	48.580000	13.470000	Passau	Germany
+lim-planetlab-1.univ-reunion.fr	-20.905000	55.500000	Sainte Clotilde	FRANCE
+planetlab2.cs.uoi.gr	39.618200	20.838600	Ioannina	GREECE
+planetlab1.virtues.fi	65.058200	25.471300	Oulu	Finland
+planetlab-1.cs.ucy.ac.cy	35.150000	33.360000	Nicosia	Cyprus
+planck250ple.test.iminds.be	51.040000	3.740000	Thessaloniki	GREECE
+planetlab1.informatik.uni-kl.de	49.450000	7.780000	Kaiserslautern	Germany
+planetlab1.ru.is	64.123200	-21.924900	Reykjavik	Iceland
+planet1.scs.stanford.edu	37.429400	-122.172000	Napoli	Italy
+ricepl-1.cs.rice.edu	29.722500	-95.392400	Modena	Italy
+plutarch.di.uoa.gr	37.968400	23.766900	Athens	Greece
+planetlab2.u-strasbg.fr	48.523700	7.738330	ILLKIRCH CEDEX	FRANCE
+planetlab1.poly.edu	40.690000	-73.990000	Ilmenau	Germany
+pl1.csl.utoronto.ca	43.000000	-79.500000	Klagenfurt	Austria
+icnalplabs1.epfl.ch	46.520300	6.565600	Lausanne	Switzerland
+146-179.surfsnel.dsl.internl.net	52.220000	4.530000	Amsterdam	The Netherlands
+planetlab2.sics.se	59.333300	18.050000	Kista	Sweden
+planetlab-1.cmcl.cs.cmu.edu	40.444600	-79.942700	Tromso	Norway
+plnode01.cs.mu.oz.au	-37.800000	144.900000	Ariana, Tunis	Tunisia
+planetlab02.dis.unina.it	40.828300	14.190600	Napoli	Italy
+planetlab-4.cs.ucy.ac.cy	35.150000	33.360000	Nicosia	Cyprus
+planetlab2.netlab.uky.edu	38.040100	-84.505400	Madrid	Spain
+planetlab1.csres.utexas.edu	30.286900	-97.736600	Cesson-SÃ©vignÃ©	FRANCE
+pl2.uni-rostock.de	54.130000	12.145000	Rostock	Germany
+planetlab1.cs.aueb.gr	37.996600	23.739900	Athens	Greece
+planet2.inf.tu-dresden.de	51.026000	13.725000	Dresden	Germany
+planetlab1.upc.es	41.389700	2.112730	Barcelona	Spain
+planetlab2.cs.aueb.gr	37.996600	23.739900	Athens	Greece
+kupl1.ittc.ku.edu	38.952700	-95.264400	Madrid	Spain
+kupl2.ittc.ku.edu	38.952700	-95.264400	Madrid	Spain
+planetlab2.cs.uiuc.edu	40.110300	-88.227200	Cesson-SÃ©vignÃ©	FRANCE
+planetlab-1.research.netlab.hut.fi	60.190000	24.930000	Aalto	Finland
+onelab6.iet.unipi.it	43.720700	10.385200	Evry	France
+planetlab1.tmit.bme.hu	47.472500	19.060000	Budapest	Hungary
+planetlab1.sics.se	59.333300	18.050000	Kista	Sweden
+pl1.tailab.eu	48.940800	2.306740	Lisboa	PORTUGAL
+planetlab4.hiit.fi	60.100000	25.000000	Aalto	Finland
+planet01.hhi.fraunhofer.de	52.520000	13.320000	Berlin	GERMANY
+planetlab2.polito.it	45.070000	7.670000	Torino	Italy
+planetlab1.nrl.eecs.qmul.ac.uk	51.500000	-0.100000	Sofia Antipolis	France
+aladdin.planetlab.extranet.uni-passau.de	48.580000	13.470000	Passau	Germany
+planetlab2.ru.is	64.123200	-21.924900	Reykjavik	Iceland
+planetlab-um10.di.uminho.pt	41.561500	-8.397220	Braga	Portugal
+planetlab-1.di.fc.ul.pt	38.450000	-9.090000	Lisboa	Portugal
+planet1.jaist.ac.jp	39.380000	140.050000	Modena	Italy
+planetlab02.cs.washington.edu	47.653100	-122.313000	Amsterdam	Netherlands
+icnalplabs2.epfl.ch	46.520300	6.565600	Lausanne	Switzerland
+plab2.create-net.org	46.067100	11.155000	Trento	Italy
+planetlab-1.usask.ca	52.130000	-106.650000	Sainte Clotilde	FRANCE
+planetlab-2.usask.ca	52.130000	-106.650000	Sainte Clotilde	FRANCE
+planetlab2.eee.hku.hk	22.170000	114.090000	Lausanne	Switzerland
+planetlab2.eecs.wsu.edu	46.731000	-117.178000	Klagenfurt	Austria
+planetlab03.cs.washington.edu	47.653100	-122.313000	Amsterdam	Netherlands
+planetlab1.aston.ac.uk	52.486600	-1.890980	Birmingham	United Kingdom
+planetlab2.sfc.wide.ad.jp	35.554600	140.059000	Rostock	Germany
+planetlab-2.cmcl.cs.cmu.edu	40.444600	-79.942700	Tromso	Norway
+planetlab1.sfc.wide.ad.jp	35.554600	140.059000	Rostock	Germany
+planetlab1.ci.pwr.wroc.pl	51.100000	16.930000	Wroclaw	Poland
+ple02.fc.univie.ac.at	48.160000	16.240000	Wien	Austria
+planetlab-2.di.fc.ul.pt	38.450000	-9.090000	Lisboa	Portugal
+planet2.itc.auth.gr	40.000000	22.000000	Thessaloniki	GREECE
+dplanet2.uoc.edu	41.390900	2.167910	Barcelona	Spain
+planetlab-13.e5.ijs.si	46.042300	14.488000	Ljubljana	Slovenia
+planetlab5.cs.cornell.edu	42.443600	-76.481600	Koszalin	Poland
+itchy.comlab.bth.se	56.181900	15.591100	Evry	France
+planetlab6.cs.cornell.edu	42.443600	-76.481600	Koszalin	Poland
+planetlab2.science.unitn.it	46.066000	11.150000	Wien	Austria
+planetlab4.ie.cuhk.edu.hk	22.300000	114.166000	Modena	Italy
+planetlab3.cslab.ece.ntua.gr	38.000000	23.730000	Athens	Greece
+planet1.scs.cs.nyu.edu	40.729200	-73.993700	Modena	Italy
+planetlab2.eas.asu.edu	33.428600	-111.915000	Sainte Clotilde	FRANCE
+pub1-s.ane.cmc.osaka-u.ac.jp	34.810000	135.520000	Eveleigh	Australia
+planetlab2.engr.uconn.edu	41.490000	-72.150000	Budapest	Hungary
+plab3.ple.silweb.pl	50.290100	18.677300	Gliwice	Poland
+planetlab5.ie.cuhk.edu.hk	22.300000	114.166000	Modena	Italy
+planet1.l3s.uni-hannover.de	52.400000	9.730000	Hannover	Germany
+planetlab1.cs.cornell.edu	42.443600	-76.481600	Koszalin	Poland
+plab2.tidprojects.com	41.412400	2.221020	Barcelona	Spain
+planetlab2.tlm.unavarra.es	42.799300	-1.635440	Pamplona	Spain
+plab4.ple.silweb.pl	50.290100	18.677300	Gliwice	Poland
+uoepl2.essex.ac.uk	51.875400	0.944138	Colchester	England
+planetlab1.tsuniv.edu	36.165900	-86.831300	Braga	Portugal
+pl002.ece.upatras.gr	38.284500	21.788500	Rio-Patras	Greece
+onelab10.pl.sophia.inria.fr	43.615600	7.068740	Berlin	Germany
+planetlab1.montefiore.ulg.ac.be	50.580000	5.560000	LiÃ¨ge	Belgique
+planetlab1.hust.edu.cn	30.512000	114.408000	Berlin	Germany
+planetlab2.hust.edu.cn	30.512000	114.408000	Berlin	Germany
+planetlab1.iitkgp.ac.in	22.317100	87.312200	Nicosia	Cyprus
+planet2.elte.hu	47.474400	19.062200	Stuttgart	Germany
+planetlab-js1.cert.org.cn	32.061000	118.791000	Koszalin	Poland
+planetlab1.unl.edu	40.800000	-96.666700	Aveiro	Portugal
+planetlab2.cqupt.edu.cn	29.537200	106.602000	Barcelona	Spain
+planetlab1.fct.ualg.pt	37.010000	-7.960000	Faro	Portugal
+ple01.fc.univie.ac.at	48.160000	16.240000	Wien	Austria
+planetlab1.cs.du.edu	39.679800	-104.963000	Tarragona	Spain
+planetlab1.mta.ac.il	32.047900	34.761000	Tel Aviv Yaffo	Israel
+planetlab2.upm.ro	46.547000	24.566000	Tirgu Mures	Romania
+lim-planetlab-2.univ-reunion.fr	-20.905000	55.500000	Sainte Clotilde	FRANCE
+planet1.cs.rochester.edu	43.080000	-77.630000	Modena	Italy
+planetlab2.cs.wayne.edu	42.357300	-83.067700	Modena	Italy
+planetlab1.ics.forth.gr	35.170000	25.000000	Heraklion, Crete	Greece
+planetlab3.cs.st-andrews.ac.uk	56.250000	-3.030000	St Andrews	Scotland
+onelab-1.fhi-fokus.de	52.525800	13.314300	Rio-Patras	Greece
+planetlab2.pjwstk.edu.pl	52.220000	20.990000	London	United Kingdom
+planetlab3.xeno.cl.cam.ac.uk	52.211200	0.091700	Heverlee	Belgium
+planetlab3.net.in.tum.de	48.149300	11.566900	Munich	Germany
+planet2.zib.de	52.454500	13.296200	Berlin	Germany
+planetlab1.esprit-tn.com	36.000000	10.000000	Ariana, Tunis	Tunisia
+planetlab-3.dis.uniroma1.it	41.891000	12.503700	Rome	Italy
+planetlab-2.research.netlab.hut.fi	60.190000	24.930000	Aalto	Finland
+planetlab-1.imperial.ac.uk	51.498000	-0.176655	London	United Kingdom
+prata.mimuw.edu.pl	52.211000	20.981000	Warsaw	Poland
+planetlab3.di.unito.it	45.070000	7.670000	Torino	Italy
+pl1.uni-rostock.de	54.130000	12.145000	Rostock	Germany
+scratchy.comlab.bth.se	56.181900	15.591100	Evry	France
+planetlab1.postel.org	33.981500	-118.460000	Modena	Italy
+planetlab2.cis.upenn.edu	39.951700	-75.190400	Birmingham	United Kingdom
+planetlab1.xeno.cl.cam.ac.uk	52.211200	0.091700	Heverlee	Belgium
+planetlab1.ionio.gr	39.620500	19.914800	Corfu	Greece
+planetlab04.cs.washington.edu	47.653100	-122.313000	Amsterdam	Netherlands
+planetlab1.pjwstk.edu.pl	52.220000	20.990000	London	United Kingdom
+planetlab1.unineuchatel.ch	46.590000	6.560000	Neuchatel	Switzerland
+pli1-pa-3.hpl.hp.com	37.440000	-122.150000	Madrid	Spain
+planetlab2.utep.edu	31.750000	-106.490000	Guilford	United Kingdom
+planet2.servers.ua.pt	40.640100	-8.656280	Aveiro	Portugal
+vicky.planetlab.ntua.gr	37.970000	23.720000	Zografou	Greece
+planetlab-1.man.poznan.pl	52.411800	16.916500	Stuttgart	Germany
+planetlab2.tamu.edu	30.610000	-96.340000	Eveleigh	Australia
+pl01.comp.polyu.edu.hk	22.304000	114.180000	Wuerzburg	GERMANY
+planetlab0.ucsc.cmb.ac.lk	6.902220	79.861300	Wuerzburg	GERMANY
+ple1.cesnet.cz	50.102000	14.391600	Prague	Czech Republic
+planetlab5.goto.info.waseda.ac.jp	35.420000	139.420000	Prague	Czech Republic
+planet-plc-2.mpi-sws.org	49.140000	6.590000	Ljubljana	Slovenia
+planetlab2.cs.vu.nl	52.350000	4.900000	Amsterdam	Netherlands
+plnodeb.plaust.edu.cn	32.060000	118.790000	Wuerzburg	GERMANY
+pl2.yonsei.ac.kr	37.530000	127.000000	Rostock	Germany
+f20bootcd.cs.princeton.edu	40.350200	-74.652400	Sofia Antipolis	France
+planetlab2.cs.umass.edu	42.394900	-72.527400	Aalto	Finland
+planet-plc-6.mpi-sws.org	49.140000	6.590000	Ljubljana	Slovenia
+pl1.yonsei.ac.kr	37.530000	127.000000	Rostock	Germany
+host4.planetlab.informatik.tu-darmstadt.de	49.530000	8.400000	Darmstadt	Germany
+planetlab1.eecs.jacobs-university.de	53.040000	8.490000	PARMA	ITALY
+planck227ple.test.ibbt.be	51.040000	3.740000	Thessaloniki	GREECE
+planetlab2.eurecom.fr	43.628500	7.051620	Sofia Antipolis	France
+planetlab2.nrl.eecs.qmul.ac.uk	51.500000	-0.100000	Sofia Antipolis	France
+planetlab1.cs.purdue.edu	40.427400	-86.916700	Passau	Germany
+planetlab-1.cs.colostate.edu	40.350000	-105.050000	Klagenfurt	Austria
+planetlab3.informatik.uni-erlangen.de	49.360000	11.000000	Erlangen	Germany
+planetlab-2.tagus.ist.utl.pt	38.737300	-9.303240	Porto Salvo	Portugal
+planetlab2.ucsd.edu	32.877000	-117.237000	Modena	Italy
+csplanetlab4.kaist.ac.kr	37.000000	127.500000	PARMA	ITALY
+planetlab2.xeno.cl.cam.ac.uk	52.211200	0.091700	Heverlee	Belgium
+ple2.cesnet.cz	50.102000	14.391600	Prague	Czech Republic
+aguila1.lsi.upc.edu	41.389700	2.112730	Barcelona	Spain
+planet4.cc.gt.atl.ga.us	33.777200	-84.397600	Cesson-SÃ©vignÃ©	FRANCE
+ple4.ipv6.lip6.fr	48.847300	2.357490	Paris	France
+planetlab1.utt.fr	48.269300	4.067390	Faro	Portugal
+planetlab03.cnds.unibe.ch	46.570000	7.260000	Bern	Switzerland
+planetlab2.research.nicta.com.au	-33.895400	151.197000	Eveleigh	Australia
+plab-1.diegm.uniud.it	46.066000	13.233000	Udine (UD)	Italy
+planetlab1.fit.vutbr.cz	50.102000	14.391600	Sainte Clotilde	FRANCE
+pl3.sos.info.hiroshima-cu.ac.jp	34.440300	132.415000	Sofia Antipolis	France
+pl4.sos.info.hiroshima-cu.ac.jp	34.440300	132.415000	Sofia Antipolis	France
+planetlab2.singaren.net.sg	1.451410	103.918000	Nicosia	Cyprus
+ops.ii.uam.es	40.436300	-3.694130	Lausanne	Switzerland
+planetlab4.warsaw.rd.tp.pl	52.176300	21.001700	Sofia Antipolis	France
+planetlab02.sys.virginia.edu	38.032000	-78.510800	Murcia	Spain
+planet-lab1.ufabc.edu.br	-23.653700	-46.531600	St Andrews	Scotland
+planetlab2-santiago.lan.redclara.net	-33.450000	-70.550000	Erlangen	Germany
+planet-lab2.ufabc.edu.br	-23.653700	-46.531600	St Andrews	Scotland
+pl1snu.koren.kr	37.260000	126.570000	Wuerzburg	GERMANY
+plab3.nec-labs.com	40.370000	-74.640000	Rio-Patras	Greece
+planetlab1.extern.kuleuven.be	50.862500	4.685990	Heverlee	Belgium
+planetlab2.cesnet.cz	50.102000	14.391600	Sainte Clotilde	FRANCE
+kc-sce-plab2.umkc.edu	39.038600	-94.579400	Napoli	Italy
+plab1.engr.sjsu.edu	37.590000	-121.890000	Amsterdam	Netherlands
+plab2.engr.sjsu.edu	37.590000	-121.890000	Amsterdam	Netherlands
+onelab2.warsaw.rd.tp.pl	52.176200	21.001200	Warsaw	Poland
+planetlab6.csail.mit.edu	42.363000	-71.092600	Modena	Italy
+planetlab2.utdallas.edu	32.986100	-96.750000	Napoli	Italy
+planetlab4.postel.org	33.981500	-118.460000	Modena	Italy
+planetlab1.singaren.net.sg	1.451410	103.918000	Nicosia	Cyprus
+planetlab-02.kusa.ac.jp	0.000000	0.000000	Ilmenau	Germany
+planetlab-node-01.ucd.ie	53.309200	-6.221690	Dublin	Ireland
+planetlab1.cs.ubc.ca	49.263700	-123.237000	Modena	Italy
+planetlab-01.kusa.ac.jp	0.000000	0.000000	Ilmenau	Germany
+planetlab2.s3.kth.se	59.349500	18.067000	Tarragona	Spain
+csplanetlab3.kaist.ac.kr	37.000000	127.500000	PARMA	ITALY
+ait21.us.es	37.420000	-5.900000	Sevilla	Spain
+planetlab-2.imag.fr	45.217400	5.808720	MONTBONNOT ST MARTIN	France
+planetlab2.inf.ethz.ch	47.379400	8.545130	Prague	Czech Republic
+planetlab3.mini.pw.edu.pl	52.220700	21.010400	Cesson-SÃ©vignÃ©	FRANCE
+planetlab4.mini.pw.edu.pl	52.220700	21.010400	Cesson-SÃ©vignÃ©	FRANCE
+planetlab2.cs.ubc.ca	49.263700	-123.237000	Modena	Italy
+planetlab1.arizona-gigapop.net	32.233300	-110.948000	Stuttgart	Germany
+planetlab1.eas.asu.edu	33.428600	-111.915000	Sainte Clotilde	FRANCE
+planetlab4.flux.utah.edu	40.768600	-111.846000	Klagenfurt	Austria
+planetlab5.flux.utah.edu	40.768600	-111.846000	Klagenfurt	Austria
+pub2-s.ane.cmc.osaka-u.ac.jp	34.810000	135.520000	Eveleigh	Australia
+planetlab1.citadel.edu	32.798400	-79.961400	Modena	Italy
+planetlab1-santiago.lan.redclara.net	-33.450000	-70.550000	Erlangen	Germany
+planetlab2-saopaulo.lan.redclara.net	1.000000	1.000000	Munich	Germany
+planetlab1-buenosaires.lan.redclara.net	1.000000	1.000000	Prague	Czech Republic
+planetlab2-buenosaires.lan.redclara.net	1.000000	1.000000	Prague	Czech Republic
+planetlab1-tijuana.lan.redclara.net	1.000000	1.000000	Namur	Belgium
+planetlab2-tijuana.lan.redclara.net	1.000000	1.000000	Namur	Belgium
+planetlab2.byu.edu	40.140000	-111.390000	Napoli	Italy
+planetlab1.utep.edu	31.750000	-106.490000	Guilford	United Kingdom
+planetlab-02.vt.nodes.planet-lab.org	37.205500	-80.412400	Prague	Czech Republic
+planetlab1.upm.ro	46.547000	24.566000	Tirgu Mures	Romania
+mercury.silicon-valley.ru	55.590000	37.110000	Modena	Italy
+venus.silicon-valley.ru	55.590000	37.110000	Modena	Italy
+plab-1.sinp.msu.ru	55.695500	37.534700	Madrid	Spain
+plab-2.sinp.msu.ru	55.695500	37.534700	Madrid	Spain
+planetlab01.lums.edu.pk	31.470100	74.409900	Prague	Czech Republic
+pli1-pa-5.hpl.hp.com	37.440000	-122.150000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab1.eecs.ucf.edu	28.330000	-81.230000	Munich	Germany
+planetlab2.eecs.ucf.edu	28.330000	-81.230000	Munich	Germany
+pl3.planetlab.uvic.ca	48.420000	-123.370000	Wuerzburg	GERMANY
+planetlab1.netmedia.gist.ac.kr	37.530000	127.000000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab3.inf.ethz.ch	47.379400	8.545130	Prague	Czech Republic
+planetlab1.williams.edu	42.710000	-73.200000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab2.williams.edu	42.710000	-73.200000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab3.williams.edu	42.710000	-73.200000	Cesson-SÃ©vignÃ©	FRANCE
+pl1.planetlab.uvic.ca	48.420000	-123.370000	Wuerzburg	GERMANY
+planetlab2.cs.unc.edu	35.920000	-79.040000	Napoli	Italy
+planetlab1.comp.nus.edu.sg	1.370000	103.800000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab2.comp.nus.edu.sg	1.370000	103.800000	Cesson-SÃ©vignÃ©	FRANCE
+saturn.cs.brown.edu	41.820000	-71.420000	Athens	Greece
+jupiter.cs.brown.edu	41.820000	-71.420000	Athens	Greece
+earth.cs.brown.edu	41.820000	-71.420000	Athens	Greece
+planetlabone.ccs.neu.edu	42.370000	-71.030000	Napoli	Italy
+newbootcd.cs.princeton.edu	40.350200	-74.652400	Sofia Antipolis	France
+planetlab16.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+mtuplanetlab1.cs.mtu.edu	47.118100	-88.546300	Madrid	Spain
+planetx.scs.cs.nyu.edu	40.729200	-73.993700	Modena	Italy
+planetlab15.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab-02.bu.edu	42.350000	-71.100000	Madrid	Spain
+planetlab1.cs.uoregon.edu	44.040000	-123.060000	Bern	Switzerland
+planetlab5.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab2.virtues.fi	65.058200	25.471300	Oulu	Finland
+planetlab-01.bu.edu	42.350000	-71.100000	Madrid	Spain
+planet1.ku.edu.tr	41.207200	29.075600	Nicosia	Cyprus
+pl1.ucs.indiana.edu	39.170800	-86.537200	Klagenfurt	Austria
+planet2.ku.edu.tr	41.207200	29.075600	Nicosia	Cyprus
+cs-planetlab3.cs.surrey.sfu.ca	49.150000	-122.570000	Ljubljana	Slovenia
+planetlab2.csie.nuk.edu.tw	22.732800	120.286000	Klagenfurt	Austria
+planetlab3.csee.usf.edu	28.058700	-82.415200	Klagenfurt	Austria
+planetlab4.csres.utexas.edu	30.286900	-97.736600	Cesson-SÃ©vignÃ©	FRANCE
+cs-planetlab4.cs.surrey.sfu.ca	49.150000	-122.570000	Ljubljana	Slovenia
+planetlab5.csres.utexas.edu	30.286900	-97.736600	Cesson-SÃ©vignÃ©	FRANCE
+planetlab4.csee.usf.edu	28.058700	-82.415200	Klagenfurt	Austria
+pl2.ucs.indiana.edu	39.170800	-86.537200	Klagenfurt	Austria
+planetlab1.cs.umb.edu	42.313400	-71.038300	Tromso	Norway
+planetlab5.williams.edu	42.710000	-73.200000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab3.wail.wisc.edu	43.075700	-89.386700	Klagenfurt	Austria
+planetlab4.wail.wisc.edu	43.075700	-89.386700	Klagenfurt	Austria
+planetlab1.utdallas.edu	32.986100	-96.750000	Napoli	Italy
+planet-lab2.cs.ucr.edu	33.950000	-117.390000	Sainte Clotilde	FRANCE
+server3.planetlab.iit-tech.net	41.838300	-87.629000	Namur	Belgium
+planetlab3.postel.org	33.981500	-118.460000	Modena	Italy
+plab3.eece.ksu.edu	39.190000	-96.590000	Sofia Antipolis	France
+planet-lab1.uba.ar	-34.597500	-58.398500	Napoli	Italy
+planet-lab2.itba.edu.ar	-34.603900	-58.367900	Sainte Clotilde	FRANCE
+planetlab5.cs.uiuc.edu	40.110300	-88.227200	Cesson-SÃ©vignÃ©	FRANCE
+planetlab-2.pdl.nudt.edu.cn	28.227000	112.996000	Napoli	Italy
+planetlab-1.pdl.nudt.edu.cn	28.227000	112.996000	Napoli	Italy
+plgmu3.ite.gmu.edu	38.510000	-77.180000	Rio-Patras	Greece
+planetlab1.tamu.edu	30.610000	-96.340000	Eveleigh	Australia
+planetlab1.bgu.ac.il	31.500000	34.750000	Goettingen	Germany
+pl2.rcc.uottawa.ca	45.420500	-75.681300	Rio-Patras	Greece
+planetlab2.c3sl.ufpr.br	-25.450700	-49.231800	Erlangen	Germany
+salt.planetlab.cs.umd.edu	38.988600	-76.944500	Cesson-SÃ©vignÃ©	FRANCE
+planetlab2.cs.columbia.edu	40.808000	-73.963900	Cesson-SÃ©vignÃ©	FRANCE
+planetlab-2.webedu.ccu.edu.tw	23.561900	120.478000	Wuerzburg	GERMANY
+planetlab-1.imag.fr	45.217400	5.808720	MONTBONNOT ST MARTIN	France
+planetlab-01.vt.nodes.planet-lab.org	37.205500	-80.412400	Prague	Czech Republic
+planetlab2.cs.uoregon.edu	44.040000	-123.060000	Bern	Switzerland
+plab4.eece.ksu.edu	39.190000	-96.590000	Sofia Antipolis	France
+planetlab12.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab2.ece.ucdavis.edu	38.720000	-121.430000	Warsaw	Poland
+planetlab1.cs.ucla.edu	34.071100	-118.442000	Eveleigh	Australia
+planetlab2.cs.ucla.edu	34.071100	-118.442000	Eveleigh	Australia
+pl1.eecs.utk.edu	35.948300	-83.936700	Madrid	Spain
+plgmu2.ite.gmu.edu	38.510000	-77.180000	Rio-Patras	Greece
+147-179.surfsnel.dsl.internl.net	52.220000	4.530000	Amsterdam	The Netherlands
+planetlab1.cs.umass.edu	42.394900	-72.527400	Aalto	Finland
+planetlab2.cs.umb.edu	42.313400	-71.038300	Tromso	Norway
+planetlab-1.calpoly-netlab.net	35.300600	-120.662000	AlmerÃ­a	Spain
+planetlab2.mta.ac.il	32.047900	34.761000	Tel Aviv Yaffo	Israel
+planetlab3.eecs.northwestern.edu	42.050000	-87.690000	Cesson-SÃ©vignÃ©	FRANCE
+node1.planetlab.mathcs.emory.edu	33.789500	-84.325500	Madrid	Spain
+pli1-br-1.hpl.hp.com	51.450000	-2.580000	Madrid	Spain
+onelab1.info.ucl.ac.be	50.683300	4.616670	Louvain-la-Neuve	Belgium
+planetlab3.cs.uchicago.edu	41.789400	-87.601100	Tel Aviv Yaffo	Israel
+planet2.scs.stanford.edu	37.429400	-122.172000	Napoli	Italy
+planetlab3.cse.nd.edu	41.700000	-86.238600	Oulu	Finland
+planetlab2.cs.cornell.edu	42.443600	-76.481600	Koszalin	Poland
+node2.planetlab.mathcs.emory.edu	33.789500	-84.325500	Madrid	Spain
+planetlab6.flux.utah.edu	40.768600	-111.846000	Klagenfurt	Austria
+planetlab7.flux.utah.edu	40.768600	-111.846000	Klagenfurt	Austria
+planetlab2.arizona-gigapop.net	32.233300	-110.948000	Stuttgart	Germany
+planetlab2.ntu.nodes.planet-lab.org	23.500000	121.000000	Reykjavik	Iceland
+planetlab7.cs.duke.edu	36.008800	-78.942700	Madrid	Spain
+planetlab5.eecs.umich.edu	42.294400	-83.712600	Modena	Italy
+planet12.csc.ncsu.edu	35.766700	-78.633300	Cesson-SÃ©vignÃ©	FRANCE
+ebb.colgate.edu	42.818900	-75.535700	Napoli	Italy
+planetlab6.cs.duke.edu	36.008800	-78.942700	Madrid	Spain
+planetlab-04.vt.nodes.planet-lab.org	37.205500	-80.412400	Prague	Czech Republic
+planetlab6.csee.usf.edu	28.058700	-82.415200	Klagenfurt	Austria
+planetlab-6.ece.iastate.edu	42.020000	-93.370000	Opole	Poland
+pl1.sos.info.hiroshima-cu.ac.jp	34.440300	132.415000	Sofia Antipolis	France
+planetlab1.ucsc.cmb.ac.lk	6.902220	79.861300	Wuerzburg	GERMANY
+planetlab6.cs.uiuc.edu	40.110300	-88.227200	Cesson-SÃ©vignÃ©	FRANCE
+pl2snu.koren.kr	37.260000	126.570000	Wuerzburg	GERMANY
+pl2.planet.cs.kent.edu	41.145000	-81.341600	Sofia Antipolis	France
+onelab1.warsaw.rd.tp.pl	52.222100	21.006900	Warsaw	Poland
+pl2.eng.monash.edu.au	-37.909600	145.133000	Ilmenau	Germany
+planetlab4.n.info.eng.osaka-cu.ac.jp	34.592700	135.504000	Madrid	Spain
+planetlab6.goto.info.waseda.ac.jp	35.420000	139.420000	Prague	Czech Republic
+planetlab3.cs.uiuc.edu	40.110300	-88.227200	Cesson-SÃ©vignÃ©	FRANCE
+planetlab1.csee.usf.edu	28.058700	-82.415200	Klagenfurt	Austria
+plab1.larc.usp.br	-23.555200	-46.531200	London	United Kingdom
+planetlab-1.sjtu.edu.cn	31.199200	121.430000	Klagenfurt	Austria
+plonk.cs.uwaterloo.ca	43.472600	-80.542200	Napoli	Italy
+planetlab1.cs.otago.ac.nz	-45.865600	170.514000	Aveiro	Portugal
+planetlab2.cs.otago.ac.nz	-45.865600	170.514000	Aveiro	Portugal
+plab2.cs.ust.hk	22.300000	114.166000	Ioannina	GREECE
+planetlab3.eecs.umich.edu	42.294400	-83.712600	Modena	Italy
+planetlab3.singaren.net.sg	1.451410	103.918000	Nicosia	Cyprus
+planetlab2.cs.ucl.ac.uk	51.500000	-0.170000	Sofia Antipolis	France
+node1.planetlab.albany.edu	42.686700	-73.823400	Napoli	Italy
+node2.planetlab.albany.edu	42.686700	-73.823400	Napoli	Italy
+roam1.cs.ou.edu	35.209800	-97.442400	Klagenfurt	Austria
+planetlab-2.cse.ohio-state.edu	39.980000	-83.030000	Berlin	Germany
+server2.planetlab.iit-tech.net	41.838300	-87.629000	Namur	Belgium
+planetlab2.pop-rs.rnp.br	-30.053300	-51.130000	Paris	France
+osiris.planetlab.cs.umd.edu	38.988600	-76.944500	Cesson-SÃ©vignÃ©	FRANCE
+whitefall.planetlab.cs.umd.edu	38.988600	-76.944500	Cesson-SÃ©vignÃ©	FRANCE
+planetlab2.csuohio.edu	41.503300	-81.675600	Lisboa	PORTUGAL
+planetlab2.cs.purdue.edu	40.427400	-86.916700	Passau	Germany
+planetlab-01.cs.princeton.edu	40.350200	-74.652400	Sofia Antipolis	France
+planetlab2.poly.edu	40.690000	-73.990000	Ilmenau	Germany
+planet-lab2.uba.ar	-34.597500	-58.398500	Napoli	Italy
+planetlab2.unl.edu	40.800000	-96.666700	Aveiro	Portugal
+planetlab-2.ece.iastate.edu	42.020000	-93.370000	Opole	Poland
+pl3.planet.cs.kent.edu	41.145000	-81.341600	Sofia Antipolis	France
+planetlab-02.cs.princeton.edu	40.350200	-74.652400	Sofia Antipolis	France
+planetlab1.ntu.nodes.planet-lab.org	23.500000	121.000000	Reykjavik	Iceland
+planetlab01.cs.washington.edu	47.653100	-122.313000	Amsterdam	Netherlands
+planetlab02.cs.tcd.ie	53.240000	-6.240000	Barcelona	Spain
+planetlab-1.cs.auckland.ac.nz	-36.853500	174.771000	Nicosia	Cyprus
+planetlab-2.cs.auckland.ac.nz	-36.853500	174.771000	Nicosia	Cyprus
+planetlab2.cnds.jhu.edu	39.330000	-76.600000	Madrid	Spain
+pl1.rcc.uottawa.ca	45.420500	-75.681300	Rio-Patras	Greece
+pl2.pku.edu.cn	39.988700	116.307000	Napoli	Italy
+server4.planetlab.iit-tech.net	41.838300	-87.629000	Namur	Belgium
+miranda.planetlab.cs.umd.edu	38.988600	-76.944500	Cesson-SÃ©vignÃ©	FRANCE
+pnode1.pdcc-ntu.singaren.net.sg	1.346180	103.682000	Budapest	Hungary
+nodea.howard.edu	38.910000	-77.020000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab-5.eecs.cwru.edu	41.502200	-81.607900	Klagenfurt	Austria
+planetlab3.arizona-gigapop.net	32.233300	-110.948000	Stuttgart	Germany
+planetlab2.pop-pa.rnp.br	-1.461480	-48.459100	Tarragona	Spain
+planetlab3.canterbury.ac.nz	-43.527100	172.649000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab4.canterbury.ac.nz	-43.527100	172.649000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab2.cs.stevens-tech.edu	40.750000	-74.033300	Udine (UD)	Italy
+ple1.tu.koszalin.pl	54.204700	16.197200	Koszalin	Poland
+planetlab-1.elisa.cpsc.ucalgary.ca	51.077500	-114.133000	Napoli	Italy
+planetlab-n2.wand.net.nz	-37.789200	175.318000	Erlangen	Germany
+plewifi.ipv6.lip6.fr	48.847300	2.357490	Paris	France
+planetlab1.pop-pa.rnp.br	-1.461480	-48.459100	Tarragona	Spain
+planetlab2.cs.uml.edu	42.654400	-71.326600	Klagenfurt	Austria
+planetlab1.clemson.edu	34.675400	-82.839400	Napoli	Italy
+planetlab1.eecs.wsu.edu	46.731000	-117.178000	Klagenfurt	Austria
+planetlab-2.elisa.cpsc.ucalgary.ca	51.077500	-114.133000	Napoli	Italy
+pl1.6test.edu.cn	40.000000	116.327000	Reykjavik	Iceland
+planetlab3.rutgers.edu	40.489600	-74.408200	Madrid	Spain
+pli1-pa-4.hpl.hp.com	37.440000	-122.150000	Cesson-SÃ©vignÃ©	FRANCE
+cs743.cs.nthu.edu.tw	23.500000	121.000000	Ljubljana	Slovenia
+flow.colgate.edu	42.818900	-75.535700	Napoli	Italy
+planetlab-1.webedu.ccu.edu.tw	23.561900	120.478000	Wuerzburg	GERMANY
+planetlab1.jhu.edu	39.330000	-76.600000	Udine (UD)	Italy
+planetlab2.jhu.edu	39.330000	-76.600000	Udine (UD)	Italy
+planetlab-2.cs.uic.edu	41.870800	-87.650500	Ioannina	GREECE
+plnodea.plaust.edu.cn	32.060000	118.790000	Wuerzburg	GERMANY
+planetlab4.cs.uoregon.edu	44.040000	-123.060000	Bern	Switzerland
+pl2.sos.info.hiroshima-cu.ac.jp	34.440300	132.415000	Sofia Antipolis	France
+planetlab-1.sysu.edu.cn	23.099300	113.299000	Erlangen	Germany
+planetlab-2.sysu.edu.cn	23.099300	113.299000	Erlangen	Germany
+metis.mcs.suffolk.edu	42.359200	-71.061900	Tel Aviv Yaffo	Israel
+adrastea.mcs.suffolk.edu	42.359200	-71.061900	Tel Aviv Yaffo	Israel
+planetlab4.tamu.edu	30.610000	-96.340000	Eveleigh	Australia
+planetlab-4.ece.iastate.edu	42.020000	-93.370000	Opole	Poland
+planetlab4.goto.info.waseda.ac.jp	35.420000	139.420000	Prague	Czech Republic
+planetlab1.umassd.edu	41.628600	-71.006100	Erlangen	Germany
+planetlab3.tamu.edu	30.610000	-96.340000	Eveleigh	Australia
+jupiter.planetlab.carleton.ca	45.384700	-75.698200	Eveleigh	Australia
+peeramide.irisa.fr	48.115500	-1.650710	Eveleigh	Australia
+node02.verivue.princeton.edu	40.350200	-74.652400	Sofia Antipolis	France
+planetlab1.ewi.tudelft.nl	52.020000	4.350000	Cesson-SÃ©vignÃ©	FRANCE
+saturn.planetlab.carleton.ca	45.384700	-75.698200	Eveleigh	Australia
+planetlab2.cs.pitt.edu	40.260000	-80.000000	Sofia Antipolis	France
+planetlab4.bupt.edu.cn	39.960600	116.359000	Zografou	Greece
+planetlab2.unr.edu	39.539800	-119.814000	Budapest	Hungary
+planetlab6.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab7.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab10.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab11.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab9.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+kc-sce-plab1.umkc.edu	39.038600	-94.579400	Napoli	Italy
+planetlab1.cqupt.edu.cn	29.537200	106.602000	Barcelona	Spain
+plab1.cs.msu.ru	55.750000	37.600000	Bern	Switzerland
+pl2.zju.edu.cn	30.263600	120.121000	Aalto	Finland
+planetlab2.cs.okstate.edu	36.122200	-97.071400	Faro	Portugal
+planetlab1.warsaw.rd.tp.pl	52.176300	21.001700	Sofia Antipolis	France
+nodeb.howard.edu	38.910000	-77.020000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab02.alucloud.com	41.812400	-88.119700	Lisboa	PORTUGAL
+pl4.cs.unm.edu	35.080000	-106.650000	Madrid	Spain
+pl1.cs.montana.edu	45.666600	-111.049000	Ioannina	GREECE
+pl2.cs.montana.edu	45.666600	-111.049000	Ioannina	GREECE
+pl221nassau0.cs.princeton.edu	40.350200	-74.652400	Sofia Antipolis	France
+planetlab01.sys.virginia.edu	38.032000	-78.510800	Murcia	Spain
+pl2.planetlab.uvic.ca	48.420000	-123.370000	Wuerzburg	GERMANY
+pluto.cs.brown.edu	41.820000	-71.420000	Athens	Greece
+planetlab4.cse.nd.edu	41.700000	-86.238600	Oulu	Finland
+planet3.cs.ucsb.edu	34.428500	-119.722000	Modena	Italy
+planetslug5.cse.ucsc.edu	37.000000	-122.060000	Udine (UD)	Italy
+vn5.cse.wustl.edu	38.647900	-90.301500	Munich	Germany
+plab2.larc.usp.br	-23.555200	-46.531200	London	United Kingdom
+planetlab02.lums.edu.pk	31.470100	74.409900	Prague	Czech Republic
+planetlab5.csee.usf.edu	28.058700	-82.415200	Klagenfurt	Austria
+planetlab-4.eecs.cwru.edu	41.502200	-81.607900	Klagenfurt	Austria
+pl1.eng.monash.edu.au	-37.909600	145.133000	Ilmenau	Germany
+planetlab3.cnds.jhu.edu	39.330000	-76.600000	Madrid	Spain
+planetlab4.cnds.jhu.edu	39.330000	-76.600000	Madrid	Spain
+pl1.planet.cs.kent.edu	41.145000	-81.341600	Sofia Antipolis	France
+planetlab1.cs.unc.edu	35.920000	-79.040000	Napoli	Italy
+node01.verivue.princeton.edu	40.350200	-74.652400	Sofia Antipolis	France
+planetlab4.cs.st-andrews.ac.uk	56.250000	-3.030000	St Andrews	Scotland
+planetlab1-saopaulo.lan.redclara.net	1.000000	1.000000	Munich	Germany
+planetlab1.ie.cuhk.edu.hk	22.300000	114.166000	Modena	Italy
+planet-lab4.uba.ar	-34.597500	-58.398500	Napoli	Italy
+planetlab1.engr.uconn.edu	41.490000	-72.150000	Budapest	Hungary
+host2.planetlab.informatik.tu-darmstadt.de	49.530000	8.400000	Darmstadt	Germany
+planet4.cs.ucsb.edu	34.428500	-119.722000	Modena	Italy
+planetlab7.csres.utexas.edu	30.286900	-97.736600	Cesson-SÃ©vignÃ©	FRANCE
+ricepl-4.cs.rice.edu	29.722500	-95.392400	Modena	Italy
+planetlab2.uta.edu	32.730000	-97.115000	Oulu	Finland
+pli1-pa-6.hpl.hp.com	37.440000	-122.150000	Cesson-SÃ©vignÃ©	FRANCE
+planetlab6.csres.utexas.edu	30.286900	-97.736600	Cesson-SÃ©vignÃ©	FRANCE
+planetlab2.ewi.tudelft.nl	52.020000	4.350000	Cesson-SÃ©vignÃ©	FRANCE
+planetlabtwo.ccs.neu.edu	42.370000	-71.030000	Napoli	Italy
+planetlab-2.ssvl.kth.se	59.520000	17.380000	Napoli	Italy
+ricepl-5.cs.rice.edu	29.722500	-95.392400	Modena	Italy
+planetlab1.cs.colorado.edu	40.007200	-105.262000	Faro	Portugal
+pnode2.pdcc-ntu.singaren.net.sg	1.346180	103.682000	Budapest	Hungary
+planetlab3.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab02.just.edu.jo	32.493100	35.987500	Napoli	Italy
+plnode-03.gpolab.bbn.com	42.390700	-71.147800	Oulu	Finland
+plgmu5.ite.gmu.edu	38.510000	-77.180000	Rio-Patras	Greece
+planetlab1.ecs.vuw.ac.nz	-41.290200	174.768000	Rostock	Germany
+planetlab2.ecs.vuw.ac.nz	-41.290200	174.768000	Rostock	Germany
+planet5.cs.ucsb.edu	34.428500	-119.722000	Modena	Italy
+planet6.cs.ucsb.edu	34.428500	-119.722000	Modena	Italy
+planetlab2.mnlab.cti.depaul.edu	41.880000	-87.630000	Murcia	Spain
+inriarennes1.irisa.fr	48.115500	-1.650710	Eveleigh	Australia
+planetlabpc0.upf.edu	41.384900	2.186400	Krakow	Poland
+ple1.zcu.cz	50.102000	14.391600	Prague	Czech Republic
+planetlab1.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab1.een.orst.edu	44.340000	-123.160000	Tarragona	Spain
+planetlab1.cs.uml.edu	42.654400	-71.326600	Klagenfurt	Austria
+planetlab-n1.wand.net.nz	-37.789200	175.318000	Erlangen	Germany
+planetlab2.een.orst.edu	44.340000	-123.160000	Tarragona	Spain
+planetlab-2.ida.liu.se	58.399000	15.577000	LinkÃ¶ping	Sweden
+openlab01.pl.sophia.inria.fr	43.615600	7.068740	Berlin	Germany
+planet1.unipr.it	44.800900	10.325500	PARMA	ITALY
+ple3.ipv6.lip6.fr	48.847300	2.357490	Paris	France
+mtuplanetlab2.cs.mtu.edu	47.118100	-88.546300	Madrid	Spain
+planet-lab1.itba.edu.ar	-34.603900	-58.367900	Sainte Clotilde	FRANCE
+planetlab3.comp.nus.edu.sg	1.370000	103.800000	Cesson-SÃ©vignÃ©	FRANCE
+plink.cs.uwaterloo.ca	43.472600	-80.542200	Napoli	Italy
+planet11.csc.ncsu.edu	35.766700	-78.633300	Cesson-SÃ©vignÃ©	FRANCE
+pl1.pku.edu.cn	39.988700	116.307000	Napoli	Italy
+planetlab1.plab.ege.edu.tr	38.457400	27.214500	Stuttgart	Germany
+planetlab-03.vt.nodes.planet-lab.org	37.205500	-80.412400	Prague	Czech Republic
+planetlab1.c3sl.ufpr.br	-25.450700	-49.231800	Erlangen	Germany
+planetlab1.eee.hku.hk	22.170000	114.090000	Lausanne	Switzerland
+planet1.pnl.nitech.ac.jp	35.156600	136.925000	Napoli	Italy
+planet2.pnl.nitech.ac.jp	35.156600	136.925000	Napoli	Italy
+planetlab2lannion.elibel.tm.fr	48.731900	-3.458420	Lannion	France
+planet1.dsp.ac.cn	39.920000	116.460000	Stuttgart	Germany
+planetlab1.cs.ucl.ac.uk	51.500000	-0.170000	Sofia Antipolis	France
+planet2.dsp.ac.cn	39.920000	116.460000	Stuttgart	Germany
+planetlab1.aut.ac.nz	-36.853800	174.766000	Zografou	Greece
+planetlab2.aut.ac.nz	-36.853800	174.766000	Zografou	Greece
+pl2.cs.yale.edu	41.313400	-72.925100	Braga	Portugal
+pl1.cs.yale.edu	41.313400	-72.925100	Braga	Portugal
+planetlab4.eecs.umich.edu	42.294400	-83.712600	Modena	Italy
+roam2.cs.ou.edu	35.209800	-97.442400	Klagenfurt	Austria
+pl1.cis.uab.edu	33.500600	-86.808400	Berlin	Germany
+planet2.cs.rochester.edu	43.080000	-77.630000	Modena	Italy
+pl2.cis.uab.edu	33.500600	-86.808400	Berlin	Germany
+planetlab1.cnis.nyit.edu	40.814000	-73.608100	Lisboa	PORTUGAL
+planetlab2.cnis.nyit.edu	40.814000	-73.608100	Lisboa	PORTUGAL
+pl-dccd-02.cua.uam.mx	19.395100	-99.233200	Tarragona	Spain
+arari.snu.ac.kr	37.530000	127.000000	Madrid	Spain
+node1pl.planet-lab.telecom-lille1.eu	50.610300	3.135250	Stuttgart	Germany
+planet-lab-node2.netgroup.uniroma2.it	41.855600	12.624300	Roma	Italy
+planetlab02.tkn.tu-berlin.de	52.500000	13.300000	Tirgu Mures	Romania
+planetlab4.cslab.ece.ntua.gr	38.000000	23.730000	Athens	Greece
+stella.planetlab.ntua.gr	37.970000	23.720000	Zografou	Greece
+planetlab2.ustc.edu.cn	31.870000	117.270000	Klagenfurt	Austria
+planetlab-5.ece.iastate.edu	42.020000	-93.370000	Opole	Poland
+pl1-higashi.ics.es.osaka-u.ac.jp	34.810000	135.520000	Eveleigh	Australia
+planetlab1.cti.espol.edu.ec	-2.150000	-79.960000	Eveleigh	Australia
+planetlab2.cti.espol.edu.ec	-2.150000	-79.960000	Eveleigh	Australia
+75-130-96-12.static.oxfr.ma.charter.com	42.273600	-71.809800	Modena	Italy
+75-130-96-13.static.oxfr.ma.charter.com	42.273600	-71.809800	Modena	Italy
+pl02.comp.polyu.edu.hk	22.304000	114.180000	Wuerzburg	GERMANY
+pln.zju.edu.cn	30.263600	120.121000	Aalto	Finland
+planetlab1.nakao-lab.org	35.750000	139.500000	AlmerÃ­a	Spain
+planetlab2.nakao-lab.org	35.750000	139.500000	AlmerÃ­a	Spain
+plab3.cs.msu.ru	55.750000	37.600000	Bern	Switzerland
+ple2.ipv6.lip6.fr	48.847300	2.357490	Paris	France
+planetlab4.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab2.tau.ac.il	32.113900	34.804200	Krakow	Poland
+planetlab1.cs.okstate.edu	36.122200	-97.071400	Faro	Portugal
+pl2.tailab.eu	48.940800	2.306740	Lisboa	PORTUGAL
+planetlab1.bupt.edu.cn	39.960600	116.359000	Zografou	Greece
+planetlab2.bupt.edu.cn	39.960600	116.359000	Zografou	Greece
+planetlab1.pop-rj.rnp.br	-22.906600	-43.172500	Udine (UD)	Italy
+planetlab2.pop-rj.rnp.br	-22.906600	-43.172500	Udine (UD)	Italy
+planetlab1.temple.edu	39.980900	-75.157000	Barcelona	Spain
+planetlab2.temple.edu	39.980900	-75.157000	Barcelona	Spain
+planetlab3.bupt.edu.cn	39.960600	116.359000	Zografou	Greece
+planetvs2.informatik.uni-stuttgart.de	48.783500	9.175170	Stuttgart	Germany
+pl-dccd-01.cua.uam.mx	19.395100	-99.233200	Tarragona	Spain
+pl001.ece.upatras.gr	38.284500	21.788500	Rio-Patras	Greece
+plab2.ple.silweb.pl	50.290100	18.677300	Gliwice	Poland
+planetlab-1.ida.liu.se	58.399000	15.577000	LinkÃ¶ping	Sweden
+planetlab-3.ece.iastate.edu	42.020000	-93.370000	Opole	Poland
+planetlab1.acis.ufl.edu	29.680000	-82.270000	Napoli	Italy
+planetlab2.acis.ufl.edu	29.680000	-82.270000	Napoli	Italy
+planetlab1.cs.pitt.edu	40.260000	-80.000000	Sofia Antipolis	France
+planetlab2.thlab.net	48.831900	2.280970	BOULOGNE-BILLANCOURT	FRANCE
+planetlab2.plab.ege.edu.tr	38.457400	27.214500	Stuttgart	Germany
+planetlab05.cs.washington.edu	47.653100	-122.313000	Amsterdam	Netherlands
+planetlab06.cs.washington.edu	47.653100	-122.313000	Amsterdam	Netherlands
+nw144.csie.ncu.edu.tw	24.967600	121.188000	LiÃ¨ge	Belgique
+planetslug7.cse.ucsc.edu	37.000000	-122.060000	Udine (UD)	Italy
+planetlab2.cs.colorado.edu	40.007200	-105.262000	Faro	Portugal
+planetlab4.cs.uchicago.edu	41.789400	-87.601100	Tel Aviv Yaffo	Israel
+planetlab2.millennium.berkeley.edu	37.875700	-122.259000	Munich	Germany
+planetlab2.di.fct.unl.pt	38.672000	-9.184230	Monte da Caparica	Portugal
+medea.inf.uth.gr	37.900000	23.700000	Thermi	Greece
+planetlab2.informatik.uni-goettingen.de	51.362200	9.559960	Goettingen	Germany
+planetlab1lannion.elibel.tm.fr	48.731900	-3.458420	Lannion	France
+planet1.zib.de	52.454500	13.296200	Berlin	Germany
+planetvs1.informatik.uni-stuttgart.de	48.783500	9.175170	Stuttgart	Germany
+planetlab2.extern.kuleuven.be	50.862500	4.685990	Heverlee	Belgium
+planet2.cs.huji.ac.il	31.785700	35.200700	Tel Aviv Yaffo	Israel
+planetlab1.cs.vu.nl	52.350000	4.900000	Amsterdam	Netherlands
+planetlab-tea.ait.ie	53.418700	-7.905570	Athlone	Ireland
+aguila2.lsi.upc.edu	41.389700	2.112730	Barcelona	Spain
+ple6.ipv6.lip6.fr	48.847300	2.357490	Paris	France
+ple2.dmcs.p.lodz.pl	51.746100	19.455600	ÅÃ³dÅº	Poland
+planetlab2.ifi.uio.no	59.930000	10.750000	London	United Kingdom
+planetlab1.tau.ac.il	32.113900	34.804200	Krakow	Poland
+roti.mimuw.edu.pl	52.211000	20.981000	Warsaw	Poland
+planetlab1.pop-rs.rnp.br	-30.053300	-51.130000	Paris	France
+planetlab3.georgetown.edu	38.540000	-77.040000	Nicosia	Cyprus
+pl2.csl.utoronto.ca	43.000000	-79.500000	Klagenfurt	Austria
+planetlab-3.cmcl.cs.cmu.edu	40.444600	-79.942700	Tromso	Norway
+planetlab7.csail.mit.edu	42.363000	-71.092600	Modena	Italy
+planetlab01.uncc.edu	35.306100	-80.732600	London	United Kingdom
+planetlab-2.calpoly-netlab.net	35.300600	-120.662000	AlmerÃ­a	Spain
+nis-planet1.doshisha.ac.jp	34.799500	135.768000	Sofia Antipolis	France
+nis-planet2.doshisha.ac.jp	34.799500	135.768000	Sofia Antipolis	France
+planetlab1.csuohio.edu	41.503300	-81.675600	Lisboa	PORTUGAL
+planetlab-1.cs.uic.edu	41.870800	-87.650500	Ioannina	GREECE
+pl-node-0.csl.sri.com	37.455700	-122.178000	Cesson-SÃ©vignÃ©	FRANCE
+pl-node-1.csl.sri.com	37.455700	-122.178000	Cesson-SÃ©vignÃ©	FRANCE
+ttu1-1.nodes.planet-lab.org	33.587400	-101.875000	Tarragona	Spain
+planetlab1.ustc.edu.cn	31.870000	117.270000	Klagenfurt	Austria
+plab1.nec-labs.com	40.370000	-74.640000	Rio-Patras	Greece
+planetlab1.rutgers.edu	40.489600	-74.408200	Madrid	Spain
+planetlab1.research.nicta.com.au	-33.895400	151.197000	Eveleigh	Australia
+iason.inf.uth.gr	37.900000	23.700000	Thermi	Greece
+planetlab2.diku.dk	55.701400	12.561200	Copenhagen	DENMARK
+planetlab1.cs.uit.no	69.681300	18.977000	Tromso	Norway
