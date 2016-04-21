@@ -1,0 +1,4 @@
+#hostname	circleLatitude	circleLongitude	radius	ttl	iataCode	iataLatitude	iataLongitude	city	code_country
+6047	52.8405	-6.9305	359.915539604	59	DUB	53.4212989807	-6.270070076	Dublin	IE
+4777	41.8705	12.4805	990.792180951	60	ROM	41.799444	12.597222	Rome	IT
+850	50.3575	7.5895	996.548196145	49	LHR	51.4706001282	-0.4619410038	London	GB

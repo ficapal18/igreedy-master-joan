@@ -1,0 +1,48 @@
+var data=
+{
+    "allCircles": [
+        {
+            "id": "6047", 
+            "latitude": 52.8405, 
+            "longitude": -6.9305, 
+            "radius": 364.3727828661467, 
+            "timestamp": 1461244162.096475
+        }, 
+        {
+            "id": "6047", 
+            "latitude": 52.8405, 
+            "longitude": -6.9305, 
+            "radius": 361.31036346130065, 
+            "timestamp": 1461244162.096456
+        }, 
+        {
+            "id": "6047", 
+            "latitude": 52.8405, 
+            "longitude": -6.9305, 
+            "radius": 359.9155396040796, 
+            "timestamp": 1461244162.096467
+        }
+    ], 
+    "count": 1, 
+    "countAllCircles": 3, 
+    "countGT": 0, 
+    "instances": [
+        {
+            "circle": {
+                "id": "6047", 
+                "latitude": 52.8405, 
+                "longitude": -6.9305, 
+                "radius": 359.9155396040796, 
+                "timestamp": 1461244162.096467
+            }, 
+            "marker": {
+                "city": "Dublin", 
+                "code_country": "IE", 
+                "id": "DUB", 
+                "latitude": 53.4212989807, 
+                "longitude": -6.270070076
+            }
+        }
+    ], 
+    "markerGT": []
+}

@@ -1,0 +1,85 @@
+var data=
+{
+    "allCircles": [
+        {
+            "id": "850", 
+            "latitude": 50.3575, 
+            "longitude": 7.5895, 
+            "radius": 998.5173592374381, 
+            "timestamp": 1461244163.110475
+        }, 
+        {
+            "id": "6047", 
+            "latitude": 52.8405, 
+            "longitude": -6.9305, 
+            "radius": 361.31036346130065, 
+            "timestamp": 1461244163.110437
+        }, 
+        {
+            "id": "850", 
+            "latitude": 50.3575, 
+            "longitude": 7.5895, 
+            "radius": 1008.2874376581539, 
+            "timestamp": 1461244163.110462
+        }, 
+        {
+            "id": "850", 
+            "latitude": 50.3575, 
+            "longitude": 7.5895, 
+            "radius": 996.5481961448908, 
+            "timestamp": 1461244163.110469
+        }, 
+        {
+            "id": "6047", 
+            "latitude": 52.8405, 
+            "longitude": -6.9305, 
+            "radius": 364.3727828661467, 
+            "timestamp": 1461244163.110455
+        }, 
+        {
+            "id": "6047", 
+            "latitude": 52.8405, 
+            "longitude": -6.9305, 
+            "radius": 359.9155396040796, 
+            "timestamp": 1461244163.110448
+        }
+    ], 
+    "count": 2, 
+    "countAllCircles": 6, 
+    "countGT": 0, 
+    "instances": [
+        {
+            "circle": {
+                "id": "6047", 
+                "latitude": 52.8405, 
+                "longitude": -6.9305, 
+                "radius": 359.9155396040796, 
+                "timestamp": 1461244163.110448
+            }, 
+            "marker": {
+                "city": "Dublin", 
+                "code_country": "IE", 
+                "id": "DUB", 
+                "latitude": 53.4212989807, 
+                "longitude": -6.270070076
+            }
+        }, 
+        {
+            "circle": {
+                "id": "850", 
+                "latitude": 50.3575, 
+                "longitude": 7.5895, 
+                "radius": 996.5481961448908, 
+                "timestamp": 1461244163.110469
+            }, 
+            "marker": {
+                "city": "London", 
+                "code_country": "GB", 
+                "id": "LHR", 
+                "latitude": 51.4706001282, 
+                "longitude": -0.4619410038
+            }
+        }
+    ], 
+    "markerGT": []
+}

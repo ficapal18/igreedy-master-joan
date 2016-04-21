@@ -1,0 +1,9 @@
+var data=
+{
+    "allCircles": [], 
+    "count": 0, 
+    "countAllCircles": 0, 
+    "countGT": 0, 
+    "instances": [], 
+    "markerGT": []
+}

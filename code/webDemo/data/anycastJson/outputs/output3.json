@@ -1,0 +1,122 @@
+var data=
+{
+    "allCircles": [
+        {
+            "id": "850", 
+            "latitude": 50.3575, 
+            "longitude": 7.5895, 
+            "radius": 998.5173592374381, 
+            "timestamp": 1461244164.129959
+        }, 
+        {
+            "id": "4777", 
+            "latitude": 41.8705, 
+            "longitude": 12.4805, 
+            "radius": 990.7921809512908, 
+            "timestamp": 1461244164.129979
+        }, 
+        {
+            "id": "6047", 
+            "latitude": 52.8405, 
+            "longitude": -6.9305, 
+            "radius": 361.31036346130065, 
+            "timestamp": 1461244164.129921
+        }, 
+        {
+            "id": "850", 
+            "latitude": 50.3575, 
+            "longitude": 7.5895, 
+            "radius": 1008.2874376581539, 
+            "timestamp": 1461244164.129946
+        }, 
+        {
+            "id": "850", 
+            "latitude": 50.3575, 
+            "longitude": 7.5895, 
+            "radius": 996.5481961448908, 
+            "timestamp": 1461244164.129953
+        }, 
+        {
+            "id": "4777", 
+            "latitude": 41.8705, 
+            "longitude": 12.4805, 
+            "radius": 1063.7270510335045, 
+            "timestamp": 1461244164.129966
+        }, 
+        {
+            "id": "4777", 
+            "latitude": 41.8705, 
+            "longitude": 12.4805, 
+            "radius": 1051.306176142052, 
+            "timestamp": 1461244164.129972
+        }, 
+        {
+            "id": "6047", 
+            "latitude": 52.8405, 
+            "longitude": -6.9305, 
+            "radius": 364.3727828661467, 
+            "timestamp": 1461244164.129939
+        }, 
+        {
+            "id": "6047", 
+            "latitude": 52.8405, 
+            "longitude": -6.9305, 
+            "radius": 359.9155396040796, 
+            "timestamp": 1461244164.129932
+        }
+    ], 
+    "count": 3, 
+    "countAllCircles": 9, 
+    "countGT": 0, 
+    "instances": [
+        {
+            "circle": {
+                "id": "6047", 
+                "latitude": 52.8405, 
+                "longitude": -6.9305, 
+                "radius": 359.9155396040796, 
+                "timestamp": 1461244164.129932
+            }, 
+            "marker": {
+                "city": "Dublin", 
+                "code_country": "IE", 
+                "id": "DUB", 
+                "latitude": 53.4212989807, 
+                "longitude": -6.270070076
+            }
+        }, 
+        {
+            "circle": {
+                "id": "4777", 
+                "latitude": 41.8705, 
+                "longitude": 12.4805, 
+                "radius": 990.7921809512908, 
+                "timestamp": 1461244164.129979
+            }, 
+            "marker": {
+                "city": "Rome", 
+                "code_country": "IT", 
+                "id": "ROM", 
+                "latitude": 41.799444, 
+                "longitude": 12.597222
+            }
+        }, 
+        {
+            "circle": {
+                "id": "850", 
+                "latitude": 50.3575, 
+                "longitude": 7.5895, 
+                "radius": 996.5481961448908, 
+                "timestamp": 1461244164.129953
+            }, 
+            "marker": {
+                "city": "London", 
+                "code_country": "GB", 
+                "id": "LHR", 
+                "latitude": 51.4706001282, 
+                "longitude": -0.4619410038
+            }
+        }
+    ], 
+    "markerGT": []
+}
